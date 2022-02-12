@@ -93,6 +93,14 @@ public class commonsclass
 		
 	}
 	
+	
+	public void waitelementtobevisible(WebDriver driver,WebElement value) 
+	{
+		WebDriverWait wait = new WebDriverWait(driver,60);
+		wait.until(ExpectedConditions.visibilityOfAllElements(value));
+		
+	}
+	
 	public void jsscroolintoview(WebDriver driver,WebElement element) 
 	{
 		JavascriptExecutor je = (JavascriptExecutor) driver;
@@ -146,5 +154,10 @@ public class commonsclass
 		}
 		
 		return Destinationfile.toString();
+	}
+	
+	public String returnText(WebElement textobeReturn)
+	{
+		return textobeReturn.getText();
 	}
 }

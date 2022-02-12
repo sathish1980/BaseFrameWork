@@ -21,4 +21,10 @@ public class dataproviderclass
 		return excelread.read();
 	}
 	
+	@DataProvider(name="Excelinput")
+	public Object[][] SearchRead() throws IOException
+	{
+		return excelread.read();
+	}
+	
 }

@@ -38,7 +38,7 @@ public class Browserdriver
 	public static void extreport()
 	{
 		report = new ExtentReports(reportpath+"extenreport.html",true);
-		test= report.startTest("Extent report");
+		test= report.startTest("Automation report");
 		
 	}
 	
@@ -55,17 +55,16 @@ public class Browserdriver
 		//String browser=Propertyclass.propreaddata().getProperty("brower");
 		if(browser.equalsIgnoreCase("chrome"))
 		{
-		//System.setProperty("webdriver.chrome.driver", "D:\\Software\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "D:\\Software\\chromedriver_win32\\chromedriver.exe");
 		logger.info("before launch");
-		WebDriverManager.chromedriver().setup();
+		//WebDriverManager.chromedriver().setup();
 		logger.info("after launch");
 		
 		ChromeOptions c=new ChromeOptions();
 		c.addArguments("--disable-notifications");
 		
-		Capabilities cap = ((RemoteWebDriver) driver).getCapabilities();
-		 Browser_Name = cap.getBrowserName();
-		 Browser_Version = cap.getVersion();
+
+		 driver= new ChromeDriver(c);
 		 maximize();
 		logger.debug("browser intialize");
 		logger.info("info log");
@@ -92,10 +91,11 @@ public class Browserdriver
 		driver.manage().window().maximize();
 	}
 	
-	@Parameters("browser")
+
 	@BeforeTest
-	public void launchurl(String browser)
+	public void launchurl()
 	{
+		String browser=Propertyclass.propreaddata().getProperty("browser");
 		browserselection(browser);
 		driver.get(urldata());
 		

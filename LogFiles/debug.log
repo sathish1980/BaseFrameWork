@@ -1450,3 +1450,69 @@ System info: host: 'DESKTOP-VTBT3RG', ip: '192.168.1.3', os.name: 'Windows 10', 
 Driver info: org.openqa.selenium.edge.EdgeDriver
 Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 96.0.1054.62, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:54933}, msedge: {msedgedriverVersion: 96.0.1054.62 (f97cb2ce0103f..., userDataDir: C:\Users\sathishkumar\AppDa...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
 Session ID: 00493c4f6dc1b01bb0e42f5ed7c11ee5
+2022-02-06 10:53:21,913 ERROR class ~ Date Selected
+2022-02-06 10:53:21,915 FATAL class ~ Date Selected -fatal
+2022-02-06 10:53:21,915 WARN  class ~ Date Selected -warning
+2022-02-06 10:57:03,230 ERROR class ~ Date Selected
+2022-02-06 10:57:03,230 FATAL class ~ Date Selected -fatal
+2022-02-06 10:57:03,230 WARN  class ~ Date Selected -warning
+2022-02-06 11:06:19,275 ERROR class ~ Date Selected
+2022-02-06 11:06:19,275 FATAL class ~ Date Selected -fatal
+2022-02-06 11:06:19,275 WARN  class ~ Date Selected -warning
+2022-02-12 09:53:24,458 ERROR class ~ Date Selected
+2022-02-12 09:53:24,461 FATAL class ~ Date Selected -fatal
+2022-02-12 09:53:24,461 WARN  class ~ Date Selected -warning
+2022-02-12 09:56:23,126 ERROR class ~ Date Selected
+2022-02-12 09:56:23,126 FATAL class ~ Date Selected -fatal
+2022-02-12 09:56:23,126 WARN  class ~ Date Selected -warning
+2022-02-12 09:57:58,557 ERROR class ~ Date Selected
+2022-02-12 09:57:58,557 FATAL class ~ Date Selected -fatal
+2022-02-12 09:57:58,557 WARN  class ~ Date Selected -warning
+2022-02-12 09:59:55,121 ERROR class ~ Date Selected
+2022-02-12 09:59:55,121 FATAL class ~ Date Selected -fatal
+2022-02-12 09:59:55,121 WARN  class ~ Date Selected -warning
+2022-02-12 10:01:36,719 ERROR class ~ Date Selected
+2022-02-12 10:01:36,719 FATAL class ~ Date Selected -fatal
+2022-02-12 10:01:36,719 WARN  class ~ Date Selected -warning
+2022-02-12 10:02:54,980 ERROR class ~ Date Selected
+2022-02-12 10:02:54,980 FATAL class ~ Date Selected -fatal
+2022-02-12 10:02:54,980 WARN  class ~ Date Selected -warning
+2022-02-12 10:03:10,756 ERROR class ~ Date Selected
+2022-02-12 10:03:10,756 FATAL class ~ Date Selected -fatal
+2022-02-12 10:03:10,756 WARN  class ~ Date Selected -warning
+2022-02-12 10:03:27,959 ERROR class ~ Date Selected
+2022-02-12 10:03:27,959 FATAL class ~ Date Selected -fatal
+2022-02-12 10:03:27,959 WARN  class ~ Date Selected -warning
+2022-02-12 10:25:32,026 ERROR class ~ Date Selected
+2022-02-12 10:25:32,026 FATAL class ~ Date Selected -fatal
+2022-02-12 10:25:32,026 WARN  class ~ Date Selected -warning
+2022-02-12 10:25:46,114 ERROR class ~ Date Selected
+2022-02-12 10:25:46,114 FATAL class ~ Date Selected -fatal
+2022-02-12 10:25:46,114 WARN  class ~ Date Selected -warning
+2022-02-12 10:26:02,489 ERROR class ~ Date Selected
+2022-02-12 10:26:02,489 FATAL class ~ Date Selected -fatal
+2022-02-12 10:26:02,489 WARN  class ~ Date Selected -warning
+2022-02-12 10:34:42,234 ERROR class ~ Date Selected
+2022-02-12 10:34:42,235 FATAL class ~ Date Selected -fatal
+2022-02-12 10:34:42,235 WARN  class ~ Date Selected -warning
+2022-02-12 10:34:56,189 ERROR class ~ Date Selected
+2022-02-12 10:34:56,189 FATAL class ~ Date Selected -fatal
+2022-02-12 10:34:56,189 WARN  class ~ Date Selected -warning
+2022-02-12 10:35:57,095 ERROR class ~ Date Selected
+2022-02-12 10:35:57,095 FATAL class ~ Date Selected -fatal
+2022-02-12 10:35:57,095 WARN  class ~ Date Selected -warning
+2022-02-12 10:36:11,007 ERROR class ~ Date Selected
+2022-02-12 10:36:11,007 FATAL class ~ Date Selected -fatal
+2022-02-12 10:36:11,007 WARN  class ~ Date Selected -warning
+2022-02-12 10:36:31,206 ERROR class ~ Date Selected
+2022-02-12 10:36:31,206 FATAL class ~ Date Selected -fatal
+2022-02-12 10:36:31,206 WARN  class ~ Date Selected -warning
+2022-02-12 10:49:25,241 ERROR class ~ Date Selected
+2022-02-12 10:49:25,241 FATAL class ~ Date Selected -fatal
+2022-02-12 10:49:25,241 WARN  class ~ Date Selected -warning
+2022-02-12 10:54:54,127 ERROR class ~ Date Selected
+2022-02-12 10:54:54,127 FATAL class ~ Date Selected -fatal
+2022-02-12 10:54:54,127 WARN  class ~ Date Selected -warning
+2022-02-12 10:55:45,513 ERROR class ~ Date Selected
+2022-02-12 10:55:45,513 FATAL class ~ Date Selected -fatal
+2022-02-12 10:55:45,513 WARN  class ~ Date Selected -warning

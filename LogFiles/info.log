@@ -4161,3 +4161,470 @@ Session ID: 00493c4f6dc1b01bb0e42f5ed7c11ee5
 2021-12-29 13:28:31,620 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2021-12-29 13:28:31,620 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2021-12-29 13:28:31,620 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-06 09:58:07,085 INFO  class ~ before launch
+2022-02-06 09:58:08,894 INFO  class ~ after launch
+2022-02-06 10:03:18,251 INFO  class ~ before launch
+2022-02-06 10:03:18,364 INFO  class ~ after launch
+2022-02-06 10:03:26,417 INFO  class ~ before launch
+2022-02-06 10:03:26,532 INFO  class ~ after launch
+2022-02-06 10:04:36,928 INFO  class ~ before launch
+2022-02-06 10:06:14,543 INFO  class ~ before launch
+2022-02-06 10:06:14,544 INFO  class ~ after launch
+2022-02-06 10:06:34,641 INFO  class ~ before launch
+2022-02-06 10:06:42,653 INFO  class ~ after launch
+2022-02-06 10:07:17,019 INFO  class ~ before launch
+2022-02-06 10:07:18,779 INFO  class ~ after launch
+2022-02-06 10:07:27,244 DEBUG class ~ browser intialize
+2022-02-06 10:07:27,244 INFO  class ~ info log
+2022-02-06 10:07:31,075 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-06 10:07:31,076 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-06 10:07:31,077 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-06 10:07:31,077 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-06 10:07:31,077 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-06 10:07:54,657 INFO  class ~ before launch
+2022-02-06 10:07:54,657 INFO  class ~ after launch
+2022-02-06 10:07:56,108 DEBUG class ~ browser intialize
+2022-02-06 10:07:56,108 INFO  class ~ info log
+2022-02-06 10:07:59,195 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-06 10:07:59,196 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-06 10:07:59,197 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-06 10:07:59,197 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-06 10:07:59,197 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-06 10:10:00,112 INFO  class ~ before launch
+2022-02-06 10:10:00,112 INFO  class ~ after launch
+2022-02-06 10:10:01,556 DEBUG class ~ browser intialize
+2022-02-06 10:10:01,556 INFO  class ~ info log
+2022-02-06 10:10:05,056 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-06 10:10:05,056 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-06 10:10:05,056 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-06 10:10:05,056 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-06 10:10:05,057 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-06 10:11:17,840 INFO  class ~ before launch
+2022-02-06 10:11:17,840 INFO  class ~ after launch
+2022-02-06 10:11:19,287 DEBUG class ~ browser intialize
+2022-02-06 10:11:19,287 INFO  class ~ info log
+2022-02-06 10:11:22,578 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-06 10:11:22,579 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-06 10:11:22,579 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-06 10:11:22,580 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-06 10:11:22,580 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-06 10:21:04,740 INFO  class ~ before launch
+2022-02-06 10:21:04,741 INFO  class ~ after launch
+2022-02-06 10:21:06,169 DEBUG class ~ browser intialize
+2022-02-06 10:21:06,170 INFO  class ~ info log
+2022-02-06 10:21:09,191 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-06 10:21:09,191 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-06 10:21:09,192 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-06 10:21:09,192 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-06 10:21:09,192 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-06 10:36:20,400 INFO  class ~ before launch
+2022-02-06 10:36:20,401 INFO  class ~ after launch
+2022-02-06 10:36:21,878 DEBUG class ~ browser intialize
+2022-02-06 10:36:21,878 INFO  class ~ info log
+2022-02-06 10:36:28,000 DEBUG class ~ from dropdown clicked
+2022-02-06 10:36:30,142 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-06 10:36:30,142 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-06 10:36:30,143 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-06 10:36:30,144 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-06 10:36:30,144 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-06 10:39:21,392 INFO  class ~ before launch
+2022-02-06 10:39:21,928 INFO  class ~ after launch
+2022-02-06 10:39:24,970 DEBUG class ~ browser intialize
+2022-02-06 10:39:24,970 INFO  class ~ info log
+2022-02-06 10:39:30,942 DEBUG class ~ from dropdown clicked
+2022-02-06 10:40:01,270 INFO  class ~ before launch
+2022-02-06 10:40:01,820 INFO  class ~ after launch
+2022-02-06 10:40:07,705 DEBUG class ~ browser intialize
+2022-02-06 10:40:07,705 INFO  class ~ info log
+2022-02-06 10:40:54,481 INFO  class ~ before launch
+2022-02-06 10:40:55,433 INFO  class ~ after launch
+2022-02-06 10:40:56,935 DEBUG class ~ browser intialize
+2022-02-06 10:40:56,935 INFO  class ~ info log
+2022-02-06 10:45:54,184 INFO  class ~ before launch
+2022-02-06 10:45:54,691 INFO  class ~ after launch
+2022-02-06 10:45:56,187 DEBUG class ~ browser intialize
+2022-02-06 10:45:56,188 INFO  class ~ info log
+2022-02-06 10:49:28,528 INFO  class ~ before launch
+2022-02-06 10:49:28,529 INFO  class ~ after launch
+2022-02-06 10:49:29,986 DEBUG class ~ browser intialize
+2022-02-06 10:49:29,986 INFO  class ~ info log
+2022-02-06 10:49:36,085 DEBUG class ~ from dropdown clicked
+2022-02-06 10:49:37,051 DEBUG class ~ from Value Selected: MAA
+2022-02-06 10:49:39,163 DEBUG class ~ To dropdown clicked
+2022-02-06 10:49:39,389 DEBUG class ~ To Value clicked: DEL
+2022-02-06 10:49:39,390 INFO  class ~ To Value clicked - info
+2022-02-06 10:49:42,048 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-06 10:49:42,048 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-06 10:49:42,048 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-06 10:49:42,048 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-06 10:49:42,048 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-06 10:52:09,160 INFO  class ~ before launch
+2022-02-06 10:52:09,674 INFO  class ~ after launch
+2022-02-06 10:52:11,175 DEBUG class ~ browser intialize
+2022-02-06 10:52:11,175 INFO  class ~ info log
+2022-02-06 10:52:19,831 DEBUG class ~ from dropdown clicked
+2022-02-06 10:52:20,799 DEBUG class ~ from Value Selected: MAA
+2022-02-06 10:52:22,899 DEBUG class ~ To dropdown clicked
+2022-02-06 10:52:23,120 DEBUG class ~ To Value clicked: DEL
+2022-02-06 10:52:23,121 INFO  class ~ To Value clicked - info
+2022-02-06 10:53:10,063 INFO  class ~ before launch
+2022-02-06 10:53:10,064 INFO  class ~ after launch
+2022-02-06 10:53:11,501 DEBUG class ~ browser intialize
+2022-02-06 10:53:11,502 INFO  class ~ info log
+2022-02-06 10:53:18,103 DEBUG class ~ from dropdown clicked
+2022-02-06 10:53:18,534 DEBUG class ~ from Value Selected: MAA
+2022-02-06 10:53:20,658 DEBUG class ~ To dropdown clicked
+2022-02-06 10:53:20,850 DEBUG class ~ To Value clicked: DEL
+2022-02-06 10:53:20,850 INFO  class ~ To Value clicked - info
+2022-02-06 10:53:21,913 DEBUG class ~ Date Selected
+2022-02-06 10:53:21,913 ERROR class ~ Date Selected
+2022-02-06 10:53:21,915 FATAL class ~ Date Selected -fatal
+2022-02-06 10:53:21,915 WARN  class ~ Date Selected -warning
+2022-02-06 10:53:30,720 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-06 10:53:30,720 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-06 10:53:30,720 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-06 10:53:30,720 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-06 10:53:30,720 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-06 10:56:51,881 INFO  class ~ before launch
+2022-02-06 10:56:51,881 INFO  class ~ after launch
+2022-02-06 10:56:53,348 DEBUG class ~ browser intialize
+2022-02-06 10:56:53,348 INFO  class ~ info log
+2022-02-06 10:56:59,432 DEBUG class ~ from dropdown clicked
+2022-02-06 10:56:59,877 DEBUG class ~ from Value Selected: MAA
+2022-02-06 10:57:01,989 DEBUG class ~ To dropdown clicked
+2022-02-06 10:57:02,158 DEBUG class ~ To Value clicked: DEL
+2022-02-06 10:57:02,158 INFO  class ~ To Value clicked - info
+2022-02-06 10:57:03,230 DEBUG class ~ Date Selected
+2022-02-06 10:57:03,230 ERROR class ~ Date Selected
+2022-02-06 10:57:03,230 FATAL class ~ Date Selected -fatal
+2022-02-06 10:57:03,230 WARN  class ~ Date Selected -warning
+2022-02-06 10:57:10,879 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-06 10:57:10,879 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-06 10:57:10,879 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-06 10:57:10,879 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-06 10:57:10,879 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-06 11:06:07,570 INFO  class ~ before launch
+2022-02-06 11:06:07,570 INFO  class ~ after launch
+2022-02-06 11:06:09,004 DEBUG class ~ browser intialize
+2022-02-06 11:06:09,005 INFO  class ~ info log
+2022-02-06 11:06:15,352 DEBUG class ~ from dropdown clicked
+2022-02-06 11:06:15,807 DEBUG class ~ from Value Selected: MAA
+2022-02-06 11:06:17,921 DEBUG class ~ To dropdown clicked
+2022-02-06 11:06:18,174 DEBUG class ~ To Value clicked: DEL
+2022-02-06 11:06:18,174 INFO  class ~ To Value clicked - info
+2022-02-06 11:06:19,275 DEBUG class ~ Date Selected
+2022-02-06 11:06:19,275 ERROR class ~ Date Selected
+2022-02-06 11:06:19,275 FATAL class ~ Date Selected -fatal
+2022-02-06 11:06:19,275 WARN  class ~ Date Selected -warning
+2022-02-06 11:06:28,074 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-06 11:06:28,074 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-06 11:06:28,074 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-06 11:06:28,074 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-06 11:06:28,074 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-12 09:53:11,412 INFO  class ~ before launch
+2022-02-12 09:53:11,413 INFO  class ~ after launch
+2022-02-12 09:53:13,526 DEBUG class ~ browser intialize
+2022-02-12 09:53:13,526 INFO  class ~ info log
+2022-02-12 09:53:20,162 DEBUG class ~ from dropdown clicked
+2022-02-12 09:53:20,957 DEBUG class ~ from Value Selected: BKK
+2022-02-12 09:53:23,064 DEBUG class ~ To dropdown clicked
+2022-02-12 09:53:23,453 DEBUG class ~ To Value clicked: MAA
+2022-02-12 09:53:23,454 INFO  class ~ To Value clicked - info
+2022-02-12 09:53:24,458 DEBUG class ~ Date Selected
+2022-02-12 09:53:24,458 ERROR class ~ Date Selected
+2022-02-12 09:53:24,461 FATAL class ~ Date Selected -fatal
+2022-02-12 09:53:24,461 WARN  class ~ Date Selected -warning
+2022-02-12 09:53:37,908 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-12 09:53:37,908 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-12 09:53:37,908 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-12 09:53:37,908 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-12 09:53:37,908 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-12 09:56:10,455 INFO  class ~ before launch
+2022-02-12 09:56:10,455 INFO  class ~ after launch
+2022-02-12 09:56:11,883 DEBUG class ~ browser intialize
+2022-02-12 09:56:11,884 INFO  class ~ info log
+2022-02-12 09:56:18,898 DEBUG class ~ from dropdown clicked
+2022-02-12 09:56:19,686 DEBUG class ~ from Value Selected: BKK
+2022-02-12 09:56:21,799 DEBUG class ~ To dropdown clicked
+2022-02-12 09:56:22,199 DEBUG class ~ To Value clicked: MAA
+2022-02-12 09:56:22,200 INFO  class ~ To Value clicked - info
+2022-02-12 09:56:23,126 DEBUG class ~ Date Selected
+2022-02-12 09:56:23,126 ERROR class ~ Date Selected
+2022-02-12 09:56:23,126 FATAL class ~ Date Selected -fatal
+2022-02-12 09:56:23,126 WARN  class ~ Date Selected -warning
+2022-02-12 09:56:37,180 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-12 09:56:37,180 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-12 09:56:37,180 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-12 09:56:37,180 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-12 09:56:37,180 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-12 09:57:45,053 INFO  class ~ before launch
+2022-02-12 09:57:45,053 INFO  class ~ after launch
+2022-02-12 09:57:46,532 DEBUG class ~ browser intialize
+2022-02-12 09:57:46,532 INFO  class ~ info log
+2022-02-12 09:57:54,277 DEBUG class ~ from dropdown clicked
+2022-02-12 09:57:55,080 DEBUG class ~ from Value Selected: BKK
+2022-02-12 09:57:57,192 DEBUG class ~ To dropdown clicked
+2022-02-12 09:57:57,567 DEBUG class ~ To Value clicked: MAA
+2022-02-12 09:57:57,567 INFO  class ~ To Value clicked - info
+2022-02-12 09:57:58,557 DEBUG class ~ Date Selected
+2022-02-12 09:57:58,557 ERROR class ~ Date Selected
+2022-02-12 09:57:58,557 FATAL class ~ Date Selected -fatal
+2022-02-12 09:57:58,557 WARN  class ~ Date Selected -warning
+2022-02-12 09:58:13,663 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-12 09:58:13,663 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-12 09:58:13,663 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-12 09:58:13,663 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-12 09:58:13,663 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-12 09:59:13,958 INFO  class ~ before launch
+2022-02-12 09:59:18,930 INFO  class ~ after launch
+2022-02-12 09:59:20,422 DEBUG class ~ browser intialize
+2022-02-12 09:59:20,422 INFO  class ~ info log
+2022-02-12 09:59:36,122 DEBUG class ~ from dropdown clicked
+2022-02-12 09:59:36,958 DEBUG class ~ from Value Selected: BKK
+2022-02-12 09:59:39,077 DEBUG class ~ To dropdown clicked
+2022-02-12 09:59:39,485 DEBUG class ~ To Value clicked: MAA
+2022-02-12 09:59:39,485 INFO  class ~ To Value clicked - info
+2022-02-12 09:59:55,121 DEBUG class ~ Date Selected
+2022-02-12 09:59:55,121 ERROR class ~ Date Selected
+2022-02-12 09:59:55,121 FATAL class ~ Date Selected -fatal
+2022-02-12 09:59:55,121 WARN  class ~ Date Selected -warning
+2022-02-12 10:01:17,749 INFO  class ~ before launch
+2022-02-12 10:01:17,749 INFO  class ~ after launch
+2022-02-12 10:01:19,241 DEBUG class ~ browser intialize
+2022-02-12 10:01:19,241 INFO  class ~ info log
+2022-02-12 10:01:32,957 DEBUG class ~ from dropdown clicked
+2022-02-12 10:01:33,272 DEBUG class ~ from Value Selected: BKK
+2022-02-12 10:01:35,378 DEBUG class ~ To dropdown clicked
+2022-02-12 10:01:35,796 DEBUG class ~ To Value clicked: MAA
+2022-02-12 10:01:35,796 INFO  class ~ To Value clicked - info
+2022-02-12 10:01:36,719 DEBUG class ~ Date Selected
+2022-02-12 10:01:36,719 ERROR class ~ Date Selected
+2022-02-12 10:01:36,719 FATAL class ~ Date Selected -fatal
+2022-02-12 10:01:36,719 WARN  class ~ Date Selected -warning
+2022-02-12 10:02:08,754 DEBUG class ~ from dropdown clicked
+2022-02-12 10:02:09,796 DEBUG class ~ from Value Selected: GOI
+2022-02-12 10:02:11,932 DEBUG class ~ To dropdown clicked
+2022-02-12 10:02:12,177 DEBUG class ~ To Value clicked: DEL
+2022-02-12 10:02:12,177 INFO  class ~ To Value clicked - info
+2022-02-12 10:02:21,502 DEBUG class ~ from dropdown clicked
+2022-02-12 10:02:22,356 DEBUG class ~ from Value Selected: PNQ
+2022-02-12 10:02:24,515 DEBUG class ~ To dropdown clicked
+2022-02-12 10:02:25,238 DEBUG class ~ To Value clicked: HKG
+2022-02-12 10:02:25,238 INFO  class ~ To Value clicked - info
+2022-02-12 10:02:29,107 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-12 10:02:29,108 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-12 10:02:29,108 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-12 10:02:29,109 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-12 10:02:29,109 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-12 10:02:42,554 INFO  class ~ before launch
+2022-02-12 10:02:42,555 INFO  class ~ after launch
+2022-02-12 10:02:44,006 DEBUG class ~ browser intialize
+2022-02-12 10:02:44,006 INFO  class ~ info log
+2022-02-12 10:02:50,743 DEBUG class ~ from dropdown clicked
+2022-02-12 10:02:51,535 DEBUG class ~ from Value Selected: BKK
+2022-02-12 10:02:53,649 DEBUG class ~ To dropdown clicked
+2022-02-12 10:02:53,980 DEBUG class ~ To Value clicked: MAA
+2022-02-12 10:02:53,980 INFO  class ~ To Value clicked - info
+2022-02-12 10:02:54,980 DEBUG class ~ Date Selected
+2022-02-12 10:02:54,980 ERROR class ~ Date Selected
+2022-02-12 10:02:54,980 FATAL class ~ Date Selected -fatal
+2022-02-12 10:02:54,980 WARN  class ~ Date Selected -warning
+2022-02-12 10:03:06,724 DEBUG class ~ from dropdown clicked
+2022-02-12 10:03:07,213 DEBUG class ~ from Value Selected: GOI
+2022-02-12 10:03:09,354 DEBUG class ~ To dropdown clicked
+2022-02-12 10:03:09,540 DEBUG class ~ To Value clicked: DEL
+2022-02-12 10:03:09,540 INFO  class ~ To Value clicked - info
+2022-02-12 10:03:10,756 DEBUG class ~ Date Selected
+2022-02-12 10:03:10,756 ERROR class ~ Date Selected
+2022-02-12 10:03:10,756 FATAL class ~ Date Selected -fatal
+2022-02-12 10:03:10,756 WARN  class ~ Date Selected -warning
+2022-02-12 10:03:23,075 DEBUG class ~ from dropdown clicked
+2022-02-12 10:03:23,404 DEBUG class ~ from Value Selected: PNQ
+2022-02-12 10:03:25,570 DEBUG class ~ To dropdown clicked
+2022-02-12 10:03:26,207 DEBUG class ~ To Value clicked: HKG
+2022-02-12 10:03:26,207 INFO  class ~ To Value clicked - info
+2022-02-12 10:03:27,959 DEBUG class ~ Date Selected
+2022-02-12 10:03:27,959 ERROR class ~ Date Selected
+2022-02-12 10:03:27,959 FATAL class ~ Date Selected -fatal
+2022-02-12 10:03:27,959 WARN  class ~ Date Selected -warning
+2022-02-12 10:04:33,277 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-12 10:04:33,277 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-12 10:04:33,277 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-12 10:04:33,277 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-12 10:04:33,277 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-12 10:25:19,172 INFO  class ~ before launch
+2022-02-12 10:25:19,172 INFO  class ~ after launch
+2022-02-12 10:25:20,613 DEBUG class ~ browser intialize
+2022-02-12 10:25:20,613 INFO  class ~ info log
+2022-02-12 10:25:27,768 DEBUG class ~ from dropdown clicked
+2022-02-12 10:25:28,549 DEBUG class ~ from Value Selected: BKK
+2022-02-12 10:25:30,688 DEBUG class ~ To dropdown clicked
+2022-02-12 10:25:31,061 DEBUG class ~ To Value clicked: MAA
+2022-02-12 10:25:31,061 INFO  class ~ To Value clicked - info
+2022-02-12 10:25:32,026 DEBUG class ~ Date Selected
+2022-02-12 10:25:32,026 ERROR class ~ Date Selected
+2022-02-12 10:25:32,026 FATAL class ~ Date Selected -fatal
+2022-02-12 10:25:32,026 WARN  class ~ Date Selected -warning
+2022-02-12 10:25:41,583 DEBUG class ~ from dropdown clicked
+2022-02-12 10:25:42,485 DEBUG class ~ from Value Selected: GOI
+2022-02-12 10:25:44,607 DEBUG class ~ To dropdown clicked
+2022-02-12 10:25:44,805 DEBUG class ~ To Value clicked: DEL
+2022-02-12 10:25:44,805 INFO  class ~ To Value clicked - info
+2022-02-12 10:25:46,113 DEBUG class ~ Date Selected
+2022-02-12 10:25:46,114 ERROR class ~ Date Selected
+2022-02-12 10:25:46,114 FATAL class ~ Date Selected -fatal
+2022-02-12 10:25:46,114 WARN  class ~ Date Selected -warning
+2022-02-12 10:25:57,537 DEBUG class ~ from dropdown clicked
+2022-02-12 10:25:57,900 DEBUG class ~ from Value Selected: PNQ
+2022-02-12 10:26:00,036 DEBUG class ~ To dropdown clicked
+2022-02-12 10:26:00,672 DEBUG class ~ To Value clicked: HKG
+2022-02-12 10:26:00,672 INFO  class ~ To Value clicked - info
+2022-02-12 10:26:02,489 DEBUG class ~ Date Selected
+2022-02-12 10:26:02,489 ERROR class ~ Date Selected
+2022-02-12 10:26:02,489 FATAL class ~ Date Selected -fatal
+2022-02-12 10:26:02,489 WARN  class ~ Date Selected -warning
+2022-02-12 10:27:11,490 DEBUG class ~ from dropdown clicked
+2022-02-12 10:27:11,729 DEBUG class ~ from Value Selected: BKK
+2022-02-12 10:27:13,830 DEBUG class ~ To dropdown clicked
+2022-02-12 10:27:14,034 DEBUG class ~ To Value clicked: MAA
+2022-02-12 10:27:14,034 INFO  class ~ To Value clicked - info
+2022-02-12 10:27:17,197 DEBUG class ~ from dropdown clicked
+2022-02-12 10:27:18,066 DEBUG class ~ from Value Selected: MAA
+2022-02-12 10:27:21,469 DEBUG class ~ from dropdown clicked
+2022-02-12 10:27:22,240 DEBUG class ~ from Value Selected: GOI
+2022-02-12 10:27:24,367 DEBUG class ~ To dropdown clicked
+2022-02-12 10:27:24,605 DEBUG class ~ To Value clicked: DEL
+2022-02-12 10:27:24,605 INFO  class ~ To Value clicked - info
+2022-02-12 10:27:27,798 DEBUG class ~ from dropdown clicked
+2022-02-12 10:27:33,638 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-12 10:27:33,638 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-12 10:27:33,638 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-12 10:27:33,638 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-12 10:27:33,638 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-12 10:34:29,301 INFO  class ~ before launch
+2022-02-12 10:34:29,302 INFO  class ~ after launch
+2022-02-12 10:34:30,742 DEBUG class ~ browser intialize
+2022-02-12 10:34:30,742 INFO  class ~ info log
+2022-02-12 10:34:37,988 DEBUG class ~ from dropdown clicked
+2022-02-12 10:34:38,790 DEBUG class ~ from Value Selected: BKK
+2022-02-12 10:34:41,299 DEBUG class ~ To Value clicked: MAA
+2022-02-12 10:34:41,299 INFO  class ~ To Value clicked - info
+2022-02-12 10:34:42,234 DEBUG class ~ Date Selected
+2022-02-12 10:34:42,234 ERROR class ~ Date Selected
+2022-02-12 10:34:42,235 FATAL class ~ Date Selected -fatal
+2022-02-12 10:34:42,235 WARN  class ~ Date Selected -warning
+2022-02-12 10:34:52,313 DEBUG class ~ from dropdown clicked
+2022-02-12 10:34:52,802 DEBUG class ~ from Value Selected: GOI
+2022-02-12 10:34:55,084 DEBUG class ~ To Value clicked: DEL
+2022-02-12 10:34:55,084 INFO  class ~ To Value clicked - info
+2022-02-12 10:34:56,189 DEBUG class ~ Date Selected
+2022-02-12 10:34:56,189 ERROR class ~ Date Selected
+2022-02-12 10:34:56,189 FATAL class ~ Date Selected -fatal
+2022-02-12 10:34:56,189 WARN  class ~ Date Selected -warning
+2022-02-12 10:35:08,131 DEBUG class ~ from dropdown clicked
+2022-02-12 10:35:08,988 DEBUG class ~ from Value Selected: PNQ
+2022-02-12 10:35:11,664 DEBUG class ~ To Value clicked: HKG
+2022-02-12 10:35:11,664 INFO  class ~ To Value clicked - info
+2022-02-12 10:35:42,715 INFO  class ~ before launch
+2022-02-12 10:35:42,715 INFO  class ~ after launch
+2022-02-12 10:35:44,190 DEBUG class ~ browser intialize
+2022-02-12 10:35:44,191 INFO  class ~ info log
+2022-02-12 10:35:53,445 DEBUG class ~ from dropdown clicked
+2022-02-12 10:35:53,732 DEBUG class ~ from Value Selected: BKK
+2022-02-12 10:35:56,189 DEBUG class ~ To Value clicked: MAA
+2022-02-12 10:35:56,189 INFO  class ~ To Value clicked - info
+2022-02-12 10:35:57,095 DEBUG class ~ Date Selected
+2022-02-12 10:35:57,095 ERROR class ~ Date Selected
+2022-02-12 10:35:57,095 FATAL class ~ Date Selected -fatal
+2022-02-12 10:35:57,095 WARN  class ~ Date Selected -warning
+2022-02-12 10:36:07,095 DEBUG class ~ from dropdown clicked
+2022-02-12 10:36:07,579 DEBUG class ~ from Value Selected: GOI
+2022-02-12 10:36:09,490 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-12 10:36:09,490 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-12 10:36:09,490 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-12 10:36:09,490 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-12 10:36:09,490 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-12 10:36:09,830 DEBUG class ~ To Value clicked: DEL
+2022-02-12 10:36:09,830 INFO  class ~ To Value clicked - info
+2022-02-12 10:36:11,007 DEBUG class ~ Date Selected
+2022-02-12 10:36:11,007 ERROR class ~ Date Selected
+2022-02-12 10:36:11,007 FATAL class ~ Date Selected -fatal
+2022-02-12 10:36:11,007 WARN  class ~ Date Selected -warning
+2022-02-12 10:36:24,014 DEBUG class ~ from dropdown clicked
+2022-02-12 10:36:26,973 DEBUG class ~ from Value Selected: PNQ
+2022-02-12 10:36:29,627 DEBUG class ~ To Value clicked: HKG
+2022-02-12 10:36:29,627 INFO  class ~ To Value clicked - info
+2022-02-12 10:36:31,206 DEBUG class ~ Date Selected
+2022-02-12 10:36:31,206 ERROR class ~ Date Selected
+2022-02-12 10:36:31,206 FATAL class ~ Date Selected -fatal
+2022-02-12 10:36:31,206 WARN  class ~ Date Selected -warning
+2022-02-12 10:37:40,483 DEBUG class ~ from dropdown clicked
+2022-02-12 10:37:41,242 DEBUG class ~ from Value Selected: BKK
+2022-02-12 10:37:43,495 DEBUG class ~ To Value clicked: MAA
+2022-02-12 10:37:43,495 INFO  class ~ To Value clicked - info
+2022-02-12 10:37:46,641 DEBUG class ~ from dropdown clicked
+2022-02-12 10:37:47,456 DEBUG class ~ from Value Selected: MAA
+2022-02-12 10:37:50,850 DEBUG class ~ from dropdown clicked
+2022-02-12 10:37:52,125 DEBUG class ~ from Value Selected: GOI
+2022-02-12 10:37:54,279 DEBUG class ~ To dropdown clicked
+2022-02-12 10:37:57,468 DEBUG class ~ from dropdown clicked
+2022-02-12 10:38:03,361 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-12 10:38:03,361 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-12 10:38:03,361 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-12 10:38:03,361 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-12 10:38:03,361 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-12 10:49:12,641 INFO  class ~ before launch
+2022-02-12 10:49:12,641 INFO  class ~ after launch
+2022-02-12 10:49:14,106 DEBUG class ~ browser intialize
+2022-02-12 10:49:14,107 INFO  class ~ info log
+2022-02-12 10:49:20,956 DEBUG class ~ from dropdown clicked
+2022-02-12 10:49:21,744 DEBUG class ~ from Value Selected: BKK
+2022-02-12 10:49:24,226 DEBUG class ~ To Value clicked: MAA
+2022-02-12 10:49:24,226 INFO  class ~ To Value clicked - info
+2022-02-12 10:49:25,241 DEBUG class ~ Date Selected
+2022-02-12 10:49:25,241 ERROR class ~ Date Selected
+2022-02-12 10:49:25,241 FATAL class ~ Date Selected -fatal
+2022-02-12 10:49:25,241 WARN  class ~ Date Selected -warning
+2022-02-12 10:50:52,479 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-12 10:50:52,480 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-12 10:50:52,480 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-12 10:50:52,481 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-12 10:50:52,481 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-12 10:52:30,380 INFO  class ~ before launch
+2022-02-12 10:52:30,380 INFO  class ~ after launch
+2022-02-12 10:52:31,840 DEBUG class ~ browser intialize
+2022-02-12 10:52:31,840 INFO  class ~ info log
+2022-02-12 10:54:39,978 INFO  class ~ before launch
+2022-02-12 10:54:39,978 INFO  class ~ after launch
+2022-02-12 10:54:41,426 DEBUG class ~ browser intialize
+2022-02-12 10:54:41,426 INFO  class ~ info log
+2022-02-12 10:54:49,941 DEBUG class ~ from dropdown clicked
+2022-02-12 10:54:50,712 DEBUG class ~ from Value Selected: BKK
+2022-02-12 10:54:53,221 DEBUG class ~ To Value clicked: MAA
+2022-02-12 10:54:53,221 INFO  class ~ To Value clicked - info
+2022-02-12 10:54:54,127 DEBUG class ~ Date Selected
+2022-02-12 10:54:54,127 ERROR class ~ Date Selected
+2022-02-12 10:54:54,127 FATAL class ~ Date Selected -fatal
+2022-02-12 10:54:54,127 WARN  class ~ Date Selected -warning
+2022-02-12 10:55:33,486 INFO  class ~ before launch
+2022-02-12 10:55:33,486 INFO  class ~ after launch
+2022-02-12 10:55:34,939 DEBUG class ~ browser intialize
+2022-02-12 10:55:34,939 INFO  class ~ info log
+2022-02-12 10:55:41,353 DEBUG class ~ from dropdown clicked
+2022-02-12 10:55:42,167 DEBUG class ~ from Value Selected: BKK
+2022-02-12 10:55:44,607 DEBUG class ~ To Value clicked: MAA
+2022-02-12 10:55:44,607 INFO  class ~ To Value clicked - info
+2022-02-12 10:55:45,513 DEBUG class ~ Date Selected
+2022-02-12 10:55:45,513 ERROR class ~ Date Selected
+2022-02-12 10:55:45,513 FATAL class ~ Date Selected -fatal
+2022-02-12 10:55:45,513 WARN  class ~ Date Selected -warning
+2022-02-12 10:56:01,081 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-12 10:56:01,081 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-12 10:56:01,081 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-12 10:56:01,081 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-12 10:56:01,081 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-12 10:57:07,380 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-12 10:57:07,380 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-12 10:57:07,381 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-12 10:57:07,381 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-12 10:57:07,381 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

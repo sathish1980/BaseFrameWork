@@ -26,13 +26,24 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Browserdriver 
 {
 
-	public WebDriver driver ;
+	//public WebDriver driver ;
+	public  ThreadLocal<WebDriver> driver = new ThreadLocal<WebDriver>();
 	public static ExtentReports report;
 	public static ExtentTest test;
 	static String reportpath= System.getProperty("user.dir")+"\\Reports\\";
 	public static Logger logger = LogManager.getLogger("class");  
 	public String Browser_Name = null;
 	public String Browser_Version = null ;
+	
+	public void setdriver(WebDriver driver)
+	{
+		this.driver.set(driver);
+	}
+	
+	public WebDriver getdriver()
+	{
+		return this.driver.get();
+	}
 	
 
 	public static void extreport()
@@ -55,16 +66,17 @@ public class Browserdriver
 		//String browser=Propertyclass.propreaddata().getProperty("brower");
 		if(browser.equalsIgnoreCase("chrome"))
 		{
-		System.setProperty("webdriver.chrome.driver", "D:\\Software\\chromedriver_win32\\chromedriver.exe");
+		//System.setProperty("webdriver.chrome.driver", "D:\\Software\\chromedriver_win32\\chromedriver.exe");
 		logger.info("before launch");
-		//WebDriverManager.chromedriver().setup();
+		WebDriverManager.chromedriver().setup();
 		logger.info("after launch");
+		setdriver( new ChromeDriver());
 		
 		ChromeOptions c=new ChromeOptions();
 		c.addArguments("--disable-notifications");
 		
 
-		 driver= new ChromeDriver(c);
+		 //driver= new ChromeDriver(c);
 		 maximize();
 		logger.debug("browser intialize");
 		logger.info("info log");
@@ -72,10 +84,11 @@ public class Browserdriver
 		else if(browser.equalsIgnoreCase("edge"))
 		{
 			//System.setProperty("webdriver.edge.driver", 
-				//	"D:\\Software\\edgedriver_win64_93\\msedgedriver.exe");
+				//	"D:\\Software\\edgedriver_win64\\msedgedriver.exe");
 			WebDriverManager.edgedriver().setup();
-			//setdriver( new EdgeDriver());
-			maximize();
+			//driver= new EdgeDriver();
+			setdriver( new EdgeDriver());
+			//maximize();
 		
 		}
 	}
@@ -88,16 +101,16 @@ public class Browserdriver
 	
 	public void maximize()
 	{
-		driver.manage().window().maximize();
+		getdriver().manage().window().maximize();
 	}
 	
-
+	@Parameters("browser")
 	@BeforeTest
-	public void launchurl()
+	public void launchurl(String browser)
 	{
-		String browser=Propertyclass.propreaddata().getProperty("browser");
+		//String browser=Propertyclass.propreaddata().getProperty("browser");
 		browserselection(browser);
-		driver.get(urldata());
+		getdriver().get(urldata());
 		
 	}
 	
@@ -105,7 +118,7 @@ public class Browserdriver
 	@AfterTest
 	public void tear()
 	{
-		driver.quit();	
+		getdriver().quit();	
 	}
 	
 	@BeforeSuite

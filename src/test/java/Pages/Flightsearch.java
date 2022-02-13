@@ -63,6 +63,7 @@ public class Flightsearch extends commonsclass
 	
 	public void fromlist(String comparetext)
 	{
+		String xpathchnage;
 		System.out.println("******** From List ********* ");
 		try {
 			Thread.sleep(3000);
@@ -82,18 +83,35 @@ public class Flightsearch extends commonsclass
 		
 			//WebElement fromfield=driver.findElement(By.xpath("(//div[@class='fsw_inner']//child::input)[1]"));
 			fromfield.click();
+			try {
+				Thread.sleep(2000);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 			Browserdriver.logger.debug("from dropdown clicked");
-			waitelementtobeclickable(driver,By.xpath("//ul[@role='listbox']//li[1]//div[2]"));
+			List<WebElement> dropdownlistvalue=driver.findElements(By.xpath("//ul[@role='listbox']"));
+			int dpsize=dropdownlistvalue.size();
+			if(dpsize>1)
+			{
+				xpathchnage="(//ul[@role='listbox'])[2]";
+			}
+			else
+			{
+				xpathchnage="//ul[@role='listbox']";
+			}
+			
+			waitelementtobeclickable(driver,By.xpath(xpathchnage+"//li[1]//div[2]"));
 			//wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//ul[@role='listbox']//li[1]//div[2]")));
-			List<WebElement> fromlist=driver.findElements(By.xpath("//ul[@role='listbox']//li"));
+			List<WebElement> fromlist=driver.findElements(By.xpath(xpathchnage+"//li"));
 			int size=fromlist.size();
 			for(int i=1;i<=size;i++)
 			{
-				WebElement eachvalue=driver.findElement(By.xpath("//ul[@role='listbox']//li["+i+"]//div[2]"));
+				WebElement eachvalue=driver.findElement(By.xpath(xpathchnage+"//li["+i+"]//div[2]"));
 				String eachtextvalue=eachvalue.getText();
 				if(eachtextvalue.equalsIgnoreCase(comparetext))
 				{
-					waitelementtobeclickable(driver,By.xpath("//ul[@role='listbox']//li[\"+i+\"]//div[2]"));
+					waitelementtobeclickable(driver,By.xpath(xpathchnage+"//li[\"+i+\"]//div[2]"));
 					eachvalue.click();
 					Browserdriver.logger.debug("from Value Selected: " + comparetext);
 					break;
@@ -104,6 +122,9 @@ public class Flightsearch extends commonsclass
 	
 	public void Tolist(String tlist)
 	{
+		String xpathchnage = null;
+		int size;
+		
 		System.out.println("******** To List ********* ");
 		
 		try {
@@ -114,14 +135,44 @@ public class Flightsearch extends commonsclass
 		}
 			waitelementtobeclickable(driver,By.xpath("(//div[@class='fsw_inner']//child::div)[2]"));
 			List<WebElement> fromlist=driver.findElements(By.xpath("//ul[@role='listbox']//li"));
-			int size=fromlist.size();
+			size=fromlist.size();
 			if(size==0)
 			{
 			WebElement tofield=driver.findElement(By.xpath("//label[@for='toCity']//parent::div"));
 			tofield.click();
+			try {
+				Thread.sleep(3000);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			List<WebElement> dropdownlistvalue=driver.findElements(By.xpath("//ul[@role='listbox']"));
+			int dpsize=dropdownlistvalue.size();
+			if(dpsize>1)
+			{
+				xpathchnage="(//ul[@role='listbox'])[2]";
+			}
+			else
+			{
+				xpathchnage="//ul[@role='listbox']";
+			}
+		
+			List<WebElement> fromlistafterclick=driver.findElements(By.xpath(xpathchnage+"//li"));
+			size=fromlistafterclick.size();
 			Browserdriver.logger.debug("To dropdown clicked");
 			}
-			
+			//for recent check in the dropdown present		
+			List<WebElement> dropdownlistvalue=driver.findElements(By.xpath("//ul[@role='listbox']"));
+			int dpsize=dropdownlistvalue.size();
+			if(dpsize>1)
+			{
+				xpathchnage="(//ul[@role='listbox'])[2]";
+			}
+			else
+			{
+				xpathchnage="//ul[@role='listbox']";
+			}
+			//Bottom popup
 			List<WebElement> closebutton =driver.findElements(By.xpath("//span[@class='langCardClose']"));
 			int closebuttonsie=closebutton.size();
 			if(closebuttonsie>0)
@@ -134,13 +185,13 @@ public class Flightsearch extends commonsclass
 			
 			for(int i=1;i<=size;i++)
 			{
-				WebElement eachvalue=driver.findElement(By.xpath("//ul[@role='listbox']//li["+i+"]//div[2]"));
+				WebElement eachvalue=driver.findElement(By.xpath(xpathchnage+"//li["+i+"]//div[2]"));
 				String eachtextvalue=eachvalue.getText();
 				
 				if(eachtextvalue.equalsIgnoreCase(tlist))
 				{
 					System.out.println("To list value :" +eachtextvalue);
-					waitelementtobeclickable(driver,By.xpath("//ul[@role='listbox']//li["+i+"]//div[2]"));
+					waitelementtobeclickable(driver,By.xpath(xpathchnage+"//li["+i+"]//div[2]"));
 					jsscroolintoview(driver,eachvalue);
 					eachvalue.click();
 					Browserdriver.logger.debug("To Value clicked: " + tlist);

@@ -5,8 +5,9 @@
   <meta charset='utf-8'>
   <title>TestNG reports</title>
 
-    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
-    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery.min.js"></script>
     <script type="text/javascript" src="testng-reports.js"></script>
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     <script type='text/javascript'>
@@ -23,8 +24,9 @@
   <body>
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
+      <button class="button" id="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +40,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-Suite">
-              <span class="suite-name border-failed">Suite</span>
+              <span class="suite-name border-passed">Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -54,7 +56,7 @@
                 </li>
                 <li>
                   <a href="#" class="navigator-link " panel-name="testlist-Suite">
-                    <span class="test-stats">1 test</span>
+                    <span class="test-stats">2 tests</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -91,21 +93,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">7 methods, 1 failed,   6 passed</span>
-                  </li>
-                  <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-Suite" class="hide-methods failed suite-Suite"> (hide)</a> <!-- hide-methods failed suite-Suite -->
-                      <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
-                    </span>
-                    <div class="method-list-content failed suite-Suite">
-                      <span>
-                        <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="Testcase.FlightsearchTestcase" hash-for-method="validsearch(PNQ, HKG, 2/25/22, 2/25/22)">validsearch(PNQ, HKG, 2/25/22, 2/25/22)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content failed suite-Suite -->
+                    <span class="method-stats">14 methods,   14 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -116,7 +104,17 @@
                     <div class="method-list-content passed suite-Suite">
                       <span>
                         <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="Testcase.FlightsearchTestcase" hash-for-method="invalidsearch(GOI, DEL, 2/18/22, 2/18/22)">invalidsearch(GOI, DEL, 2/18/22, 2/18/22)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Suite" title="Testcase.FlightsearchTestcase" hash-for-method="invalidsearch(BKK, MAA, 2/14/22, 2/14/22)">invalidsearch(BKK, MAA, 2/14/22, 2/14/22)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="Testcase.FlightsearchTestcase" hash-for-method="invalidsearch(PNQ, HKG, 2/25/22, 2/25/22)">invalidsearch(PNQ, HKG, 2/25/22, 2/25/22)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -131,12 +129,42 @@
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="Testcase.FlightsearchTestcase" hash-for-method="invalidsearch(BKK, MAA, 2/14/22, 2/14/22)">invalidsearch(BKK, MAA, 2/14/22, 2/14/22)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Suite" title="Testcase.FlightsearchTestcase" hash-for-method="validsearch(BKK, MAA, 2/14/22, 2/14/22)">validsearch(BKK, MAA, 2/14/22, 2/14/22)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Suite" title="Testcase.FlightsearchTestcase" hash-for-method="validsearch(GOI, DEL, 2/18/22, 2/18/22)">validsearch(GOI, DEL, 2/18/22, 2/18/22)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="Testcase.FlightsearchTestcase" hash-for-method="validsearch(PNQ, HKG, 2/25/22, 2/25/22)">validsearch(PNQ, HKG, 2/25/22, 2/25/22)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="Testcase.FlightsearchTestcase" hash-for-method="validsearch(PNQ, HKG, 2/25/22, 2/25/22)">validsearch(PNQ, HKG, 2/25/22, 2/25/22)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="Testcase.FlightsearchTestcase" hash-for-method="validsearch(GOI, DEL, 2/18/22, 2/18/22)">validsearch(GOI, DEL, 2/18/22, 2/18/22)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="Testcase.FlightsearchTestcase" hash-for-method="validsearch(BKK, MAA, 2/14/22, 2/14/22)">validsearch(BKK, MAA, 2/14/22, 2/14/22)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="Testcase.SearchListTestcase" hash-for-method="validsearchList">validsearchList</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -156,40 +184,6 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Suite" class="panel Suite">
-          <div class="suite-Suite-class-failed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">Testcase.FlightsearchTestcase</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="validsearch(PNQ, HKG, 2/25/22, 2/25/22)">
-                  </a> <!-- validsearch(PNQ, HKG, 2/25/22, 2/25/22) -->
-                  <span class="method-name">validsearch</span>
-                  <span class="parameters">(PNQ, HKG, 2/25/22, 2/25/22)</span>
-                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
-  (Session info: chrome=98.0.4758.82)
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;DESKTOP-VTBT3RG&apos;, ip: &apos;192.168.0.109&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_301&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\sathishkumar\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:61567}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b25dafc7073831224515c81e0a507d07
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
-	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.back(RemoteWebDriver.java:849)
-	at Testcase.FlightsearchTestcase.validsearch(FlightsearchTestcase.java:72)
-... Removed 29 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Suite-class-failed -->
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -198,10 +192,26 @@ Session ID: b25dafc7073831224515c81e0a507d07
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
+                  <a name="invalidsearch(GOI, DEL, 2/18/22, 2/18/22)">
+                  </a> <!-- invalidsearch(GOI, DEL, 2/18/22, 2/18/22) -->
+                  <span class="method-name">invalidsearch</span>
+                  <span class="parameters">(GOI, DEL, 2/18/22, 2/18/22)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
                   <a name="invalidsearch(BKK, MAA, 2/14/22, 2/14/22)">
                   </a> <!-- invalidsearch(BKK, MAA, 2/14/22, 2/14/22) -->
                   <span class="method-name">invalidsearch</span>
                   <span class="parameters">(BKK, MAA, 2/14/22, 2/14/22)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="invalidsearch(PNQ, HKG, 2/25/22, 2/25/22)">
+                  </a> <!-- invalidsearch(PNQ, HKG, 2/25/22, 2/25/22) -->
+                  <span class="method-name">invalidsearch</span>
+                  <span class="parameters">(PNQ, HKG, 2/25/22, 2/25/22)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -222,6 +232,14 @@ Session ID: b25dafc7073831224515c81e0a507d07
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
+                  <a name="invalidsearch(BKK, MAA, 2/14/22, 2/14/22)">
+                  </a> <!-- invalidsearch(BKK, MAA, 2/14/22, 2/14/22) -->
+                  <span class="method-name">invalidsearch</span>
+                  <span class="parameters">(BKK, MAA, 2/14/22, 2/14/22)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
                   <a name="validsearch(BKK, MAA, 2/14/22, 2/14/22)">
                   </a> <!-- validsearch(BKK, MAA, 2/14/22, 2/14/22) -->
                   <span class="method-name">validsearch</span>
@@ -234,6 +252,38 @@ Session ID: b25dafc7073831224515c81e0a507d07
                   </a> <!-- validsearch(GOI, DEL, 2/18/22, 2/18/22) -->
                   <span class="method-name">validsearch</span>
                   <span class="parameters">(GOI, DEL, 2/18/22, 2/18/22)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validsearch(PNQ, HKG, 2/25/22, 2/25/22)">
+                  </a> <!-- validsearch(PNQ, HKG, 2/25/22, 2/25/22) -->
+                  <span class="method-name">validsearch</span>
+                  <span class="parameters">(PNQ, HKG, 2/25/22, 2/25/22)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validsearch(PNQ, HKG, 2/25/22, 2/25/22)">
+                  </a> <!-- validsearch(PNQ, HKG, 2/25/22, 2/25/22) -->
+                  <span class="method-name">validsearch</span>
+                  <span class="parameters">(PNQ, HKG, 2/25/22, 2/25/22)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validsearch(GOI, DEL, 2/18/22, 2/18/22)">
+                  </a> <!-- validsearch(GOI, DEL, 2/18/22, 2/18/22) -->
+                  <span class="method-name">validsearch</span>
+                  <span class="parameters">(GOI, DEL, 2/18/22, 2/18/22)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validsearch(BKK, MAA, 2/14/22, 2/14/22)">
+                  </a> <!-- validsearch(BKK, MAA, 2/14/22, 2/14/22) -->
+                  <span class="method-name">validsearch</span>
+                  <span class="parameters">(BKK, MAA, 2/14/22, 2/14/22)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -251,6 +301,13 @@ Session ID: b25dafc7073831224515c81e0a507d07
                   <span class="method-name">validsearchList</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validsearchList">
+                  </a> <!-- validsearchList -->
+                  <span class="method-name">validsearchList</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Suite-class-passed -->
         </div> <!-- panel Suite -->
@@ -261,14 +318,22 @@ Session ID: b25dafc7073831224515c81e0a507d07
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
-&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Suite&quot;&gt;
-  &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Suite&quot; parallel=&quot;tests&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;CHROMEBROWSER&quot; parallel=&quot;tests&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;edge&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;Testcase.FlightsearchTestcase&quot;/&gt;
       &lt;class name=&quot;Testcase.SearchListTestcase&quot;/&gt;
     &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- Test --&gt;
+  &lt;/test&gt; &lt;!-- CHROMEBROWSER --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;EDGEBROWSER&quot; parallel=&quot;tests&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;Testcase.FlightsearchTestcase&quot;/&gt;
+      &lt;class name=&quot;Testcase.SearchListTestcase&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- EDGEBROWSER --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -280,7 +345,10 @@ Session ID: b25dafc7073831224515c81e0a507d07
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Test (2 classes)</span>
+                <span class="test-name">CHROMEBROWSER (2 classes)</span>
+              </li>
+              <li>
+                <span class="test-name">EDGEBROWSER (2 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -306,40 +374,68 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(7);
+data.addRows(14);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'validsearch')
 data.setCell(0, 2, 'Testcase.FlightsearchTestcase')
-data.setCell(0, 3, 37440);
+data.setCell(0, 3, 78018);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'validsearch')
 data.setCell(1, 2, 'Testcase.FlightsearchTestcase')
-data.setCell(1, 3, 15847);
+data.setCell(1, 3, 77744);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'invalidsearch')
+data.setCell(2, 1, 'validsearch')
 data.setCell(2, 2, 'Testcase.FlightsearchTestcase')
-data.setCell(2, 3, 12214);
+data.setCell(2, 3, 19646);
 data.setCell(3, 0, 3)
-data.setCell(3, 1, 'invalidsearch')
+data.setCell(3, 1, 'validsearch')
 data.setCell(3, 2, 'Testcase.FlightsearchTestcase')
-data.setCell(3, 3, 12203);
+data.setCell(3, 3, 19064);
 data.setCell(4, 0, 4)
-data.setCell(4, 1, 'invalidsearch')
+data.setCell(4, 1, 'validsearch')
 data.setCell(4, 2, 'Testcase.FlightsearchTestcase')
-data.setCell(4, 3, 12175);
+data.setCell(4, 3, 17967);
 data.setCell(5, 0, 5)
-data.setCell(5, 1, 'validsearch')
+data.setCell(5, 1, 'invalidsearch')
 data.setCell(5, 2, 'Testcase.FlightsearchTestcase')
-data.setCell(5, 3, 4499);
+data.setCell(5, 3, 17153);
 data.setCell(6, 0, 6)
-data.setCell(6, 1, 'validsearchList')
-data.setCell(6, 2, 'Testcase.SearchListTestcase')
-data.setCell(6, 3, 1);
+data.setCell(6, 1, 'invalidsearch')
+data.setCell(6, 2, 'Testcase.FlightsearchTestcase')
+data.setCell(6, 3, 17002);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'validsearch')
+data.setCell(7, 2, 'Testcase.FlightsearchTestcase')
+data.setCell(7, 3, 16906);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'invalidsearch')
+data.setCell(8, 2, 'Testcase.FlightsearchTestcase')
+data.setCell(8, 3, 16709);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'invalidsearch')
+data.setCell(9, 2, 'Testcase.FlightsearchTestcase')
+data.setCell(9, 3, 16628);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'invalidsearch')
+data.setCell(10, 2, 'Testcase.FlightsearchTestcase')
+data.setCell(10, 3, 13718);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'invalidsearch')
+data.setCell(11, 2, 'Testcase.FlightsearchTestcase')
+data.setCell(11, 3, 13658);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'validsearchList')
+data.setCell(12, 2, 'Testcase.SearchListTestcase')
+data.setCell(12, 3, 1);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'validsearchList')
+data.setCell(13, 2, 'Testcase.SearchListTestcase')
+data.setCell(13, 3, 0);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <span class="suite-total-time">Total running time: 2 minutes</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -354,19 +450,27 @@ return data;
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">4 ignored methods</span>
+            <span class="header-content">8 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="ignored-class-div">
               <span class="ignored-class-name">Testcase.SearchListTestcase</span>
               <div class="ignored-methods-div">
-                <span class="ignored-method-name">launch</span>
+                <span class="ignored-method-name">launchurl</span>
                 <br/>
                 <span class="ignored-method-name">launchurl</span>
+                <br/>
+                <span class="ignored-method-name">tear</span>
+                <br/>
+                <span class="ignored-method-name">teardonw</span>
                 <br/>
                 <span class="ignored-method-name">teardonw</span>
                 <br/>
                 <span class="ignored-method-name">tear</span>
+                <br/>
+                <span class="ignored-method-name">launch</span>
+                <br/>
+                <span class="ignored-method-name">launch</span>
                 <br/>
               </div> <!-- ignored-methods-div -->
             </div> <!-- ignored-class-div -->
@@ -384,56 +488,97 @@ return data;
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
               <div class="configuration-test before">
-                <span class="method-name">launchurl</span>
-                <span class="method-start">75 ms</span>
+                <span class="method-name">launchurl(edge)</span>
+                <span class="method-start">66 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="configuration-test before">
+                <span class="method-name">launchurl(chrome)</span>
+                <span class="method-start">66 ms</span>
               </div> <!-- configuration-test before -->
               <div class="test-method">
                 <span class="method-name">validsearch(BKK, MAA, 2/14/22, 2/14/22)</span>
-                <span class="method-start">4870 ms</span>
+                <span class="method-start">10732 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">validsearch(BKK, MAA, 2/14/22, 2/14/22)</span>
+                <span class="method-start">11074 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">validsearch(GOI, DEL, 2/18/22, 2/18/22)</span>
-                <span class="method-start">20718 ms</span>
+                <span class="method-start">27982 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
+                <span class="method-name">validsearch(GOI, DEL, 2/18/22, 2/18/22)</span>
+                <span class="method-start">28700 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
                 <span class="method-name">validsearch(PNQ, HKG, 2/25/22, 2/25/22)</span>
-                <span class="method-start">25218 ms</span>
+                <span class="method-start">47047 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">validsearch(PNQ, HKG, 2/25/22, 2/25/22)</span>
+                <span class="method-start">48347 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">invalidsearch(BKK, MAA, 2/14/22, 2/14/22)</span>
-                <span class="method-start">62669 ms</span>
+                <span class="method-start">124800 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">invalidsearch(BKK, MAA, 2/14/22, 2/14/22)</span>
+                <span class="method-start">126372 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">invalidsearch(GOI, DEL, 2/18/22, 2/18/22)</span>
-                <span class="method-start">74874 ms</span>
+                <span class="method-start">138519 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">invalidsearch(GOI, DEL, 2/18/22, 2/18/22)</span>
+                <span class="method-start">140030 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">invalidsearch(PNQ, HKG, 2/25/22, 2/25/22)</span>
-                <span class="method-start">87050 ms</span>
+                <span class="method-start">155147 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">invalidsearch(PNQ, HKG, 2/25/22, 2/25/22)</span>
+                <span class="method-start">156739 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">Testcase.SearchListTestcase</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">validsearchList</span>
-                <span class="method-start">99265 ms</span>
+                <span class="method-start">172300 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">Testcase.FlightsearchTestcase</div> <!-- chronological-class-name -->
               <div class="configuration-test after">
                 <span class="method-name">tear</span>
-                <span class="method-start">99266 ms</span>
+                <span class="method-start">172300 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">Testcase.SearchListTestcase</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">validsearchList</span>
+                <span class="method-start">173742 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">Testcase.FlightsearchTestcase</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">tear</span>
+                <span class="method-start">173743 ms</span>
               </div> <!-- configuration-test after -->
               <div class="configuration-suite after">
                 <span class="method-name">teardonw</span>
-                <span class="method-start">99903 ms</span>
+                <span class="method-start">174686 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->
     </div> <!-- wrapper -->
   </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
 </html>

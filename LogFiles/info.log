@@ -4628,3 +4628,768 @@ Session ID: 00493c4f6dc1b01bb0e42f5ed7c11ee5
 2022-02-12 10:57:07,381 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2022-02-12 10:57:07,381 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2022-02-12 10:57:07,381 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-13 09:33:54,070 INFO  class ~ before launch
+2022-02-13 09:33:54,071 INFO  class ~ after launch
+2022-02-13 09:33:55,638 DEBUG class ~ browser intialize
+2022-02-13 09:33:55,638 INFO  class ~ info log
+2022-02-13 09:34:03,598 DEBUG class ~ from dropdown clicked
+2022-02-13 09:34:04,390 DEBUG class ~ from Value Selected: BKK
+2022-02-13 09:34:06,834 DEBUG class ~ To Value clicked: MAA
+2022-02-13 09:34:06,834 INFO  class ~ To Value clicked - info
+2022-02-13 09:35:27,527 INFO  class ~ before launch
+2022-02-13 09:35:27,527 INFO  class ~ after launch
+2022-02-13 09:35:28,992 DEBUG class ~ browser intialize
+2022-02-13 09:35:28,992 INFO  class ~ info log
+2022-02-13 09:35:39,337 DEBUG class ~ from dropdown clicked
+2022-02-13 09:35:39,735 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-13 09:35:39,736 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-13 09:35:39,736 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-13 09:35:39,737 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-13 09:35:39,737 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-13 09:35:40,102 DEBUG class ~ from Value Selected: BKK
+2022-02-13 09:36:22,751 DEBUG class ~ To Value clicked: MAA
+2022-02-13 09:36:22,752 INFO  class ~ To Value clicked - info
+2022-02-13 09:36:30,893 DEBUG class ~ Date Selected
+2022-02-13 09:36:30,893 ERROR class ~ Date Selected
+2022-02-13 09:36:30,894 FATAL class ~ Date Selected -fatal
+2022-02-13 09:36:30,894 WARN  class ~ Date Selected -warning
+2022-02-13 09:36:57,306 DEBUG class ~ from dropdown clicked
+2022-02-13 09:36:58,300 DEBUG class ~ from Value Selected: GOI
+2022-02-13 09:37:10,677 DEBUG class ~ To Value clicked: DEL
+2022-02-13 09:37:10,677 INFO  class ~ To Value clicked - info
+2022-02-13 09:37:13,535 DEBUG class ~ Date Selected
+2022-02-13 09:37:13,535 ERROR class ~ Date Selected
+2022-02-13 09:37:13,535 FATAL class ~ Date Selected -fatal
+2022-02-13 09:37:13,535 WARN  class ~ Date Selected -warning
+2022-02-13 09:37:43,173 DEBUG class ~ from dropdown clicked
+2022-02-13 09:37:44,121 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 09:37:54,265 DEBUG class ~ To Value clicked: HKG
+2022-02-13 09:37:54,266 INFO  class ~ To Value clicked - info
+2022-02-13 09:38:03,804 DEBUG class ~ Date Selected
+2022-02-13 09:38:03,804 ERROR class ~ Date Selected
+2022-02-13 09:38:03,804 FATAL class ~ Date Selected -fatal
+2022-02-13 09:38:03,805 WARN  class ~ Date Selected -warning
+2022-02-13 09:39:36,258 DEBUG class ~ from dropdown clicked
+2022-02-13 09:39:37,093 DEBUG class ~ from Value Selected: BKK
+2022-02-13 09:39:51,984 DEBUG class ~ To Value clicked: MAA
+2022-02-13 09:39:51,985 INFO  class ~ To Value clicked - info
+2022-02-13 09:39:57,584 DEBUG class ~ from dropdown clicked
+2022-02-13 09:39:58,532 DEBUG class ~ from Value Selected: MAA
+2022-02-13 09:40:13,372 DEBUG class ~ from dropdown clicked
+2022-02-13 09:40:14,132 DEBUG class ~ from Value Selected: GOI
+2022-02-13 09:40:32,241 INFO  class ~ before launch
+2022-02-13 09:40:32,242 INFO  class ~ after launch
+2022-02-13 09:40:33,693 DEBUG class ~ browser intialize
+2022-02-13 09:40:33,693 INFO  class ~ info log
+2022-02-13 09:42:03,750 INFO  class ~ before launch
+2022-02-13 09:42:03,751 INFO  class ~ after launch
+2022-02-13 09:42:05,255 DEBUG class ~ browser intialize
+2022-02-13 09:42:05,255 INFO  class ~ info log
+2022-02-13 09:42:11,553 DEBUG class ~ from dropdown clicked
+2022-02-13 09:42:12,350 DEBUG class ~ from Value Selected: BKK
+2022-02-13 09:42:14,814 DEBUG class ~ To Value clicked: MAA
+2022-02-13 09:42:14,814 INFO  class ~ To Value clicked - info
+2022-02-13 09:42:15,818 DEBUG class ~ Date Selected
+2022-02-13 09:42:15,819 ERROR class ~ Date Selected
+2022-02-13 09:42:15,819 FATAL class ~ Date Selected -fatal
+2022-02-13 09:42:15,819 WARN  class ~ Date Selected -warning
+2022-02-13 09:42:27,181 DEBUG class ~ from dropdown clicked
+2022-02-13 09:42:27,671 DEBUG class ~ from Value Selected: GOI
+2022-02-13 09:42:29,968 DEBUG class ~ To Value clicked: DEL
+2022-02-13 09:42:29,968 INFO  class ~ To Value clicked - info
+2022-02-13 09:42:31,323 DEBUG class ~ Date Selected
+2022-02-13 09:42:31,323 ERROR class ~ Date Selected
+2022-02-13 09:42:31,323 FATAL class ~ Date Selected -fatal
+2022-02-13 09:42:31,323 WARN  class ~ Date Selected -warning
+2022-02-13 09:42:42,225 DEBUG class ~ from dropdown clicked
+2022-02-13 09:42:43,127 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 09:42:45,957 DEBUG class ~ To Value clicked: HKG
+2022-02-13 09:42:45,957 INFO  class ~ To Value clicked - info
+2022-02-13 09:42:47,694 DEBUG class ~ Date Selected
+2022-02-13 09:42:47,695 ERROR class ~ Date Selected
+2022-02-13 09:42:47,695 FATAL class ~ Date Selected -fatal
+2022-02-13 09:42:47,695 WARN  class ~ Date Selected -warning
+2022-02-13 09:44:16,700 DEBUG class ~ from dropdown clicked
+2022-02-13 09:44:17,494 DEBUG class ~ from Value Selected: BKK
+2022-02-13 09:44:27,942 DEBUG class ~ To Value clicked: MAA
+2022-02-13 09:44:27,942 INFO  class ~ To Value clicked - info
+2022-02-13 09:44:38,468 DEBUG class ~ from dropdown clicked
+2022-02-13 09:44:39,407 DEBUG class ~ from Value Selected: MAA
+2022-02-13 09:44:57,916 DEBUG class ~ from dropdown clicked
+2022-02-13 09:44:58,698 DEBUG class ~ from Value Selected: GOI
+2022-02-13 09:45:06,565 DEBUG class ~ To dropdown clicked
+2022-02-13 09:46:51,716 INFO  class ~ before launch
+2022-02-13 09:46:51,717 INFO  class ~ after launch
+2022-02-13 09:46:53,196 DEBUG class ~ browser intialize
+2022-02-13 09:46:53,196 INFO  class ~ info log
+2022-02-13 09:47:06,640 DEBUG class ~ from dropdown clicked
+2022-02-13 09:47:07,409 DEBUG class ~ from Value Selected: BKK
+2022-02-13 09:47:16,576 DEBUG class ~ To Value clicked: MAA
+2022-02-13 09:47:16,576 INFO  class ~ To Value clicked - info
+2022-02-13 09:47:21,035 DEBUG class ~ from dropdown clicked
+2022-02-13 09:47:21,928 DEBUG class ~ from Value Selected: MAA
+2022-02-13 09:47:37,159 DEBUG class ~ from dropdown clicked
+2022-02-13 09:47:37,488 DEBUG class ~ from Value Selected: GOI
+2022-02-13 09:48:49,069 DEBUG class ~ To dropdown clicked
+2022-02-13 09:49:58,587 INFO  class ~ before launch
+2022-02-13 09:49:58,588 INFO  class ~ after launch
+2022-02-13 09:50:00,061 DEBUG class ~ browser intialize
+2022-02-13 09:50:00,061 INFO  class ~ info log
+2022-02-13 09:50:08,987 DEBUG class ~ from dropdown clicked
+2022-02-13 09:50:09,769 DEBUG class ~ from Value Selected: BKK
+2022-02-13 09:50:37,519 DEBUG class ~ To Value clicked: MAA
+2022-02-13 09:50:37,519 INFO  class ~ To Value clicked - info
+2022-02-13 09:50:40,920 DEBUG class ~ from dropdown clicked
+2022-02-13 09:50:41,793 DEBUG class ~ from Value Selected: MAA
+2022-02-13 09:50:49,526 DEBUG class ~ from dropdown clicked
+2022-02-13 09:50:50,401 DEBUG class ~ from Value Selected: GOI
+2022-02-13 09:50:59,288 DEBUG class ~ To dropdown clicked
+2022-02-13 09:52:58,691 INFO  class ~ before launch
+2022-02-13 09:52:58,691 INFO  class ~ after launch
+2022-02-13 09:53:00,166 DEBUG class ~ browser intialize
+2022-02-13 09:53:00,166 INFO  class ~ info log
+2022-02-13 09:53:09,818 DEBUG class ~ from dropdown clicked
+2022-02-13 09:53:10,661 DEBUG class ~ from Value Selected: BKK
+2022-02-13 09:53:21,266 DEBUG class ~ To Value clicked: MAA
+2022-02-13 09:53:21,266 INFO  class ~ To Value clicked - info
+2022-02-13 09:53:25,844 DEBUG class ~ from dropdown clicked
+2022-02-13 09:53:26,763 DEBUG class ~ from Value Selected: MAA
+2022-02-13 09:53:33,925 DEBUG class ~ from dropdown clicked
+2022-02-13 09:53:34,817 DEBUG class ~ from Value Selected: GOI
+2022-02-13 09:53:45,993 DEBUG class ~ To dropdown clicked
+2022-02-13 09:57:18,493 DEBUG class ~ To dropdown clicked
+2022-02-13 09:57:24,085 DEBUG class ~ To Value clicked: DEL
+2022-02-13 09:57:24,085 INFO  class ~ To Value clicked - info
+2022-02-13 09:57:35,497 DEBUG class ~ from dropdown clicked
+2022-02-13 10:11:24,172 INFO  class ~ before launch
+2022-02-13 10:11:24,172 INFO  class ~ after launch
+2022-02-13 10:11:25,677 DEBUG class ~ browser intialize
+2022-02-13 10:11:25,677 INFO  class ~ info log
+2022-02-13 10:11:35,376 DEBUG class ~ from dropdown clicked
+2022-02-13 10:11:35,672 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:11:46,826 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-13 10:11:46,827 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-13 10:11:46,827 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-13 10:11:46,828 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-13 10:11:46,828 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-13 10:12:37,742 INFO  class ~ before launch
+2022-02-13 10:12:37,742 INFO  class ~ after launch
+2022-02-13 10:12:39,213 DEBUG class ~ browser intialize
+2022-02-13 10:12:39,213 INFO  class ~ info log
+2022-02-13 10:12:48,178 DEBUG class ~ from dropdown clicked
+2022-02-13 10:12:48,989 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:15:45,258 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-13 10:15:45,258 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-13 10:15:45,259 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-13 10:15:45,260 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-13 10:15:45,260 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-13 10:16:00,140 INFO  class ~ before launch
+2022-02-13 10:16:00,140 INFO  class ~ after launch
+2022-02-13 10:16:01,609 DEBUG class ~ browser intialize
+2022-02-13 10:16:01,609 INFO  class ~ info log
+2022-02-13 10:16:10,598 DEBUG class ~ from dropdown clicked
+2022-02-13 10:16:10,863 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:16:36,277 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:16:36,277 INFO  class ~ To Value clicked - info
+2022-02-13 10:16:47,146 DEBUG class ~ from dropdown clicked
+2022-02-13 10:16:47,965 DEBUG class ~ from Value Selected: MAA
+2022-02-13 10:16:59,815 DEBUG class ~ from dropdown clicked
+2022-02-13 10:17:00,714 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:17:14,813 DEBUG class ~ To dropdown clicked
+2022-02-13 10:18:25,907 INFO  class ~ before launch
+2022-02-13 10:18:25,907 INFO  class ~ after launch
+2022-02-13 10:18:27,461 DEBUG class ~ browser intialize
+2022-02-13 10:18:27,461 INFO  class ~ info log
+2022-02-13 10:18:36,627 DEBUG class ~ from dropdown clicked
+2022-02-13 10:18:36,903 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:18:44,197 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:18:44,198 INFO  class ~ To Value clicked - info
+2022-02-13 10:18:48,955 DEBUG class ~ from dropdown clicked
+2022-02-13 10:18:49,246 DEBUG class ~ from Value Selected: MAA
+2022-02-13 10:18:58,786 DEBUG class ~ from dropdown clicked
+2022-02-13 10:18:59,232 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:19:41,555 DEBUG class ~ To dropdown clicked
+2022-02-13 10:21:09,250 DEBUG class ~ To dropdown clicked
+2022-02-13 10:21:36,423 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:21:36,423 INFO  class ~ To Value clicked - info
+2022-02-13 10:21:46,787 DEBUG class ~ from dropdown clicked
+2022-02-13 10:23:16,440 INFO  class ~ before launch
+2022-02-13 10:23:16,440 INFO  class ~ after launch
+2022-02-13 10:23:17,907 DEBUG class ~ browser intialize
+2022-02-13 10:23:17,907 INFO  class ~ info log
+2022-02-13 10:23:31,142 DEBUG class ~ from dropdown clicked
+2022-02-13 10:23:34,517 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:23:45,618 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:23:45,618 INFO  class ~ To Value clicked - info
+2022-02-13 10:23:52,691 DEBUG class ~ from dropdown clicked
+2022-02-13 10:23:55,307 DEBUG class ~ from Value Selected: MAA
+2022-02-13 10:24:08,824 DEBUG class ~ from dropdown clicked
+2022-02-13 10:24:12,737 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:24:26,670 DEBUG class ~ To dropdown clicked
+2022-02-13 10:24:29,204 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:24:29,204 INFO  class ~ To Value clicked - info
+2022-02-13 10:24:36,933 DEBUG class ~ from dropdown clicked
+2022-02-13 10:25:04,634 DEBUG class ~ from Value Selected: DEL
+2022-02-13 10:25:24,357 DEBUG class ~ from dropdown clicked
+2022-02-13 10:25:30,629 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:25:46,909 DEBUG class ~ To dropdown clicked
+2022-02-13 10:25:50,274 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:25:50,274 INFO  class ~ To Value clicked - info
+2022-02-13 10:25:57,021 DEBUG class ~ from dropdown clicked
+2022-02-13 10:26:20,565 DEBUG class ~ from Value Selected: HKG
+2022-02-13 10:26:29,595 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-13 10:26:29,595 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-13 10:26:29,596 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-13 10:26:29,597 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-13 10:26:29,597 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-13 10:26:41,289 INFO  class ~ before launch
+2022-02-13 10:26:41,289 INFO  class ~ after launch
+2022-02-13 10:26:42,749 DEBUG class ~ browser intialize
+2022-02-13 10:26:42,749 INFO  class ~ info log
+2022-02-13 10:26:52,641 DEBUG class ~ from dropdown clicked
+2022-02-13 10:26:52,904 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:26:55,419 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:26:55,419 INFO  class ~ To Value clicked - info
+2022-02-13 10:27:00,641 DEBUG class ~ from dropdown clicked
+2022-02-13 10:27:01,054 DEBUG class ~ from Value Selected: MAA
+2022-02-13 10:27:06,451 DEBUG class ~ from dropdown clicked
+2022-02-13 10:27:06,792 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:27:11,983 DEBUG class ~ To dropdown clicked
+2022-02-13 10:27:12,155 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:27:12,155 INFO  class ~ To Value clicked - info
+2022-02-13 10:27:17,300 DEBUG class ~ from dropdown clicked
+2022-02-13 10:27:17,525 DEBUG class ~ from Value Selected: DEL
+2022-02-13 10:27:22,979 DEBUG class ~ from dropdown clicked
+2022-02-13 10:27:23,222 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:27:28,447 DEBUG class ~ To dropdown clicked
+2022-02-13 10:27:29,095 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:27:29,095 INFO  class ~ To Value clicked - info
+2022-02-13 10:27:34,270 DEBUG class ~ from dropdown clicked
+2022-02-13 10:27:34,748 DEBUG class ~ from Value Selected: HKG
+2022-02-13 10:27:35,687 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-13 10:27:35,687 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-13 10:27:35,687 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-13 10:27:35,687 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-13 10:27:35,687 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-13 10:28:32,586 INFO  class ~ before launch
+2022-02-13 10:28:32,586 INFO  class ~ after launch
+2022-02-13 10:28:34,037 DEBUG class ~ browser intialize
+2022-02-13 10:28:34,038 INFO  class ~ info log
+2022-02-13 10:28:42,270 DEBUG class ~ from dropdown clicked
+2022-02-13 10:28:42,576 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:28:45,129 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:28:45,129 INFO  class ~ To Value clicked - info
+2022-02-13 10:28:46,171 DEBUG class ~ Date Selected
+2022-02-13 10:28:46,171 ERROR class ~ Date Selected
+2022-02-13 10:28:46,171 FATAL class ~ Date Selected -fatal
+2022-02-13 10:28:46,171 WARN  class ~ Date Selected -warning
+2022-02-13 10:28:59,562 DEBUG class ~ from dropdown clicked
+2022-02-13 10:29:00,078 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:29:02,353 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:29:02,353 INFO  class ~ To Value clicked - info
+2022-02-13 10:29:03,542 DEBUG class ~ Date Selected
+2022-02-13 10:29:03,542 ERROR class ~ Date Selected
+2022-02-13 10:29:03,542 FATAL class ~ Date Selected -fatal
+2022-02-13 10:29:03,542 WARN  class ~ Date Selected -warning
+2022-02-13 10:29:16,451 DEBUG class ~ from dropdown clicked
+2022-02-13 10:29:16,829 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:29:19,555 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:29:19,555 INFO  class ~ To Value clicked - info
+2022-02-13 10:29:21,368 DEBUG class ~ Date Selected
+2022-02-13 10:29:21,368 ERROR class ~ Date Selected
+2022-02-13 10:29:21,368 FATAL class ~ Date Selected -fatal
+2022-02-13 10:29:21,368 WARN  class ~ Date Selected -warning
+2022-02-13 10:30:32,856 DEBUG class ~ from dropdown clicked
+2022-02-13 10:30:33,159 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:30:35,612 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:30:35,612 INFO  class ~ To Value clicked - info
+2022-02-13 10:30:40,801 DEBUG class ~ from dropdown clicked
+2022-02-13 10:30:41,296 DEBUG class ~ from Value Selected: MAA
+2022-02-13 10:30:46,719 DEBUG class ~ from dropdown clicked
+2022-02-13 10:30:47,042 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:30:52,231 DEBUG class ~ To dropdown clicked
+2022-02-13 10:30:52,416 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:30:52,416 INFO  class ~ To Value clicked - info
+2022-02-13 10:30:57,570 DEBUG class ~ from dropdown clicked
+2022-02-13 10:30:57,760 DEBUG class ~ from Value Selected: DEL
+2022-02-13 10:31:03,150 DEBUG class ~ from dropdown clicked
+2022-02-13 10:31:03,408 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:31:08,583 DEBUG class ~ To dropdown clicked
+2022-02-13 10:31:09,084 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:31:09,084 INFO  class ~ To Value clicked - info
+2022-02-13 10:31:14,219 DEBUG class ~ from dropdown clicked
+2022-02-13 10:31:14,673 DEBUG class ~ from Value Selected: HKG
+2022-02-13 10:31:15,644 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-13 10:31:15,644 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-13 10:31:15,645 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-13 10:31:15,645 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-13 10:31:15,645 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-13 10:38:59,219 INFO  class ~ before launch
+2022-02-13 10:38:59,219 INFO  class ~ after launch
+2022-02-13 10:39:00,695 DEBUG class ~ browser intialize
+2022-02-13 10:39:00,696 INFO  class ~ info log
+2022-02-13 10:39:09,346 DEBUG class ~ from dropdown clicked
+2022-02-13 10:39:09,639 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:39:12,163 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:39:12,163 INFO  class ~ To Value clicked - info
+2022-02-13 10:39:13,213 DEBUG class ~ Date Selected
+2022-02-13 10:39:13,213 ERROR class ~ Date Selected
+2022-02-13 10:39:13,214 FATAL class ~ Date Selected -fatal
+2022-02-13 10:39:13,214 WARN  class ~ Date Selected -warning
+2022-02-13 10:39:25,000 DEBUG class ~ from dropdown clicked
+2022-02-13 10:39:25,535 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:39:27,784 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:39:27,784 INFO  class ~ To Value clicked - info
+2022-02-13 10:39:29,142 DEBUG class ~ Date Selected
+2022-02-13 10:39:29,142 ERROR class ~ Date Selected
+2022-02-13 10:39:29,142 FATAL class ~ Date Selected -fatal
+2022-02-13 10:39:29,142 WARN  class ~ Date Selected -warning
+2022-02-13 10:39:42,223 DEBUG class ~ from dropdown clicked
+2022-02-13 10:39:42,596 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:39:45,375 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:39:45,375 INFO  class ~ To Value clicked - info
+2022-02-13 10:39:47,209 DEBUG class ~ Date Selected
+2022-02-13 10:39:47,209 ERROR class ~ Date Selected
+2022-02-13 10:39:47,209 FATAL class ~ Date Selected -fatal
+2022-02-13 10:39:47,209 WARN  class ~ Date Selected -warning
+2022-02-13 10:41:00,059 DEBUG class ~ from dropdown clicked
+2022-02-13 10:41:00,309 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:41:02,742 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:41:02,742 INFO  class ~ To Value clicked - info
+2022-02-13 10:41:07,983 DEBUG class ~ from dropdown clicked
+2022-02-13 10:41:08,341 DEBUG class ~ from Value Selected: MAA
+2022-02-13 10:41:13,811 DEBUG class ~ from dropdown clicked
+2022-02-13 10:41:14,174 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:41:19,431 DEBUG class ~ To dropdown clicked
+2022-02-13 10:41:19,663 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:41:19,663 INFO  class ~ To Value clicked - info
+2022-02-13 10:41:24,864 DEBUG class ~ from dropdown clicked
+2022-02-13 10:41:25,072 DEBUG class ~ from Value Selected: DEL
+2022-02-13 10:41:30,503 DEBUG class ~ from dropdown clicked
+2022-02-13 10:41:30,829 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:41:36,037 DEBUG class ~ To dropdown clicked
+2022-02-13 10:41:36,835 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:41:36,836 INFO  class ~ To Value clicked - info
+2022-02-13 10:41:42,055 DEBUG class ~ from dropdown clicked
+2022-02-13 10:41:42,570 DEBUG class ~ from Value Selected: HKG
+2022-02-13 10:45:02,447 INFO  class ~ before launch
+2022-02-13 10:45:02,448 INFO  class ~ after launch
+2022-02-13 10:45:03,931 DEBUG class ~ browser intialize
+2022-02-13 10:45:03,931 INFO  class ~ info log
+2022-02-13 10:45:14,197 DEBUG class ~ from dropdown clicked
+2022-02-13 10:45:14,435 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:45:15,117 DEBUG class ~ from dropdown clicked
+2022-02-13 10:45:15,402 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:45:16,858 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:45:16,858 INFO  class ~ To Value clicked - info
+2022-02-13 10:45:17,817 DEBUG class ~ Date Selected
+2022-02-13 10:45:17,817 ERROR class ~ Date Selected
+2022-02-13 10:45:17,817 FATAL class ~ Date Selected -fatal
+2022-02-13 10:45:17,817 WARN  class ~ Date Selected -warning
+2022-02-13 10:45:17,867 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:45:17,867 INFO  class ~ To Value clicked - info
+2022-02-13 10:45:18,734 DEBUG class ~ Date Selected
+2022-02-13 10:45:18,734 ERROR class ~ Date Selected
+2022-02-13 10:45:18,734 FATAL class ~ Date Selected -fatal
+2022-02-13 10:45:18,734 WARN  class ~ Date Selected -warning
+2022-02-13 10:45:29,839 DEBUG class ~ from dropdown clicked
+2022-02-13 10:45:30,293 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:45:31,539 DEBUG class ~ from dropdown clicked
+2022-02-13 10:45:31,974 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:45:32,543 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:45:32,543 INFO  class ~ To Value clicked - info
+2022-02-13 10:45:33,647 DEBUG class ~ Date Selected
+2022-02-13 10:45:33,648 ERROR class ~ Date Selected
+2022-02-13 10:45:33,648 FATAL class ~ Date Selected -fatal
+2022-02-13 10:45:33,648 WARN  class ~ Date Selected -warning
+2022-02-13 10:45:34,192 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:45:34,192 INFO  class ~ To Value clicked - info
+2022-02-13 10:45:35,399 DEBUG class ~ Date Selected
+2022-02-13 10:45:35,399 ERROR class ~ Date Selected
+2022-02-13 10:45:35,399 FATAL class ~ Date Selected -fatal
+2022-02-13 10:45:35,399 WARN  class ~ Date Selected -warning
+2022-02-13 10:45:47,038 DEBUG class ~ from dropdown clicked
+2022-02-13 10:45:47,396 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:45:48,980 DEBUG class ~ from dropdown clicked
+2022-02-13 10:45:49,377 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:45:50,163 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:45:50,163 INFO  class ~ To Value clicked - info
+2022-02-13 10:45:51,822 DEBUG class ~ Date Selected
+2022-02-13 10:45:51,822 ERROR class ~ Date Selected
+2022-02-13 10:45:51,822 FATAL class ~ Date Selected -fatal
+2022-02-13 10:45:51,822 WARN  class ~ Date Selected -warning
+2022-02-13 10:45:51,989 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:45:51,989 INFO  class ~ To Value clicked - info
+2022-02-13 10:45:53,790 DEBUG class ~ Date Selected
+2022-02-13 10:45:53,790 ERROR class ~ Date Selected
+2022-02-13 10:45:53,790 FATAL class ~ Date Selected -fatal
+2022-02-13 10:45:53,790 WARN  class ~ Date Selected -warning
+2022-02-13 10:47:03,873 DEBUG class ~ from dropdown clicked
+2022-02-13 10:47:04,150 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:47:06,323 DEBUG class ~ from dropdown clicked
+2022-02-13 10:47:06,582 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:47:06,582 INFO  class ~ To Value clicked - info
+2022-02-13 10:47:06,615 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:47:09,014 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:47:09,014 INFO  class ~ To Value clicked - info
+2022-02-13 10:47:11,756 DEBUG class ~ from dropdown clicked
+2022-02-13 10:47:12,054 DEBUG class ~ from Value Selected: MAA
+2022-02-13 10:47:14,157 DEBUG class ~ from dropdown clicked
+2022-02-13 10:47:14,455 DEBUG class ~ from Value Selected: MAA
+2022-02-13 10:47:17,523 DEBUG class ~ from dropdown clicked
+2022-02-13 10:47:17,984 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:47:19,903 DEBUG class ~ from dropdown clicked
+2022-02-13 10:47:20,232 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:47:23,189 DEBUG class ~ To dropdown clicked
+2022-02-13 10:47:23,442 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:47:23,442 INFO  class ~ To Value clicked - info
+2022-02-13 10:47:25,496 DEBUG class ~ To dropdown clicked
+2022-02-13 10:47:25,741 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:47:25,741 INFO  class ~ To Value clicked - info
+2022-02-13 10:47:28,619 DEBUG class ~ from dropdown clicked
+2022-02-13 10:47:28,918 DEBUG class ~ from Value Selected: DEL
+2022-02-13 10:47:30,958 DEBUG class ~ from dropdown clicked
+2022-02-13 10:47:31,194 DEBUG class ~ from Value Selected: DEL
+2022-02-13 10:47:34,319 DEBUG class ~ from dropdown clicked
+2022-02-13 10:47:34,559 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:47:36,586 DEBUG class ~ from dropdown clicked
+2022-02-13 10:47:36,879 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:47:39,753 DEBUG class ~ To dropdown clicked
+2022-02-13 10:47:40,380 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:47:40,380 INFO  class ~ To Value clicked - info
+2022-02-13 10:47:42,087 DEBUG class ~ To dropdown clicked
+2022-02-13 10:47:42,495 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:47:42,495 INFO  class ~ To Value clicked - info
+2022-02-13 10:47:45,555 DEBUG class ~ from dropdown clicked
+2022-02-13 10:47:46,000 DEBUG class ~ from Value Selected: HKG
+2022-02-13 10:47:47,653 DEBUG class ~ from dropdown clicked
+2022-02-13 10:47:48,093 DEBUG class ~ from Value Selected: HKG
+2022-02-13 10:47:49,292 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-13 10:47:49,292 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-13 10:47:49,292 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-13 10:47:49,292 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-13 10:47:49,292 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-13 10:49:10,616 DEBUG class ~ from dropdown clicked
+2022-02-13 10:49:10,889 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:49:13,248 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:49:13,248 INFO  class ~ To Value clicked - info
+2022-02-13 10:49:44,578 DEBUG class ~ from dropdown clicked
+2022-02-13 10:49:44,856 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:49:47,292 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:49:47,292 INFO  class ~ To Value clicked - info
+2022-02-13 10:49:48,252 DEBUG class ~ Date Selected
+2022-02-13 10:49:48,252 ERROR class ~ Date Selected
+2022-02-13 10:49:48,252 FATAL class ~ Date Selected -fatal
+2022-02-13 10:49:48,252 WARN  class ~ Date Selected -warning
+2022-02-13 10:50:02,354 DEBUG class ~ from dropdown clicked
+2022-02-13 10:50:02,872 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:50:05,126 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:50:05,126 INFO  class ~ To Value clicked - info
+2022-02-13 10:50:06,314 DEBUG class ~ Date Selected
+2022-02-13 10:50:06,314 ERROR class ~ Date Selected
+2022-02-13 10:50:06,314 FATAL class ~ Date Selected -fatal
+2022-02-13 10:50:06,314 WARN  class ~ Date Selected -warning
+2022-02-13 10:50:20,129 DEBUG class ~ from dropdown clicked
+2022-02-13 10:50:20,436 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:50:23,224 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:50:23,224 INFO  class ~ To Value clicked - info
+2022-02-13 10:50:25,046 DEBUG class ~ Date Selected
+2022-02-13 10:50:25,046 ERROR class ~ Date Selected
+2022-02-13 10:50:25,046 FATAL class ~ Date Selected -fatal
+2022-02-13 10:50:25,046 WARN  class ~ Date Selected -warning
+2022-02-13 10:50:50,821 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-13 10:50:50,821 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-13 10:50:50,821 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-13 10:50:50,821 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-13 10:50:50,821 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-13 10:51:38,507 DEBUG class ~ from dropdown clicked
+2022-02-13 10:51:38,810 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:51:41,220 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:51:41,220 INFO  class ~ To Value clicked - info
+2022-02-13 10:51:46,382 DEBUG class ~ from dropdown clicked
+2022-02-13 10:51:46,775 DEBUG class ~ from Value Selected: MAA
+2022-02-13 10:51:52,243 DEBUG class ~ from dropdown clicked
+2022-02-13 10:51:52,549 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:51:57,804 DEBUG class ~ To dropdown clicked
+2022-02-13 10:51:57,996 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:51:57,996 INFO  class ~ To Value clicked - info
+2022-02-13 10:52:03,216 DEBUG class ~ from dropdown clicked
+2022-02-13 10:52:03,485 DEBUG class ~ from Value Selected: DEL
+2022-02-13 10:52:08,874 DEBUG class ~ from dropdown clicked
+2022-02-13 10:52:09,204 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:52:14,428 DEBUG class ~ To dropdown clicked
+2022-02-13 10:52:14,967 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:52:14,967 INFO  class ~ To Value clicked - info
+2022-02-13 10:52:20,122 DEBUG class ~ from dropdown clicked
+2022-02-13 10:52:20,672 DEBUG class ~ from Value Selected: HKG
+2022-02-13 10:52:21,858 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-13 10:52:21,858 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-13 10:52:21,858 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-13 10:52:21,858 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-13 10:52:21,858 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-13 10:52:57,043 INFO  class ~ before launch
+2022-02-13 10:52:57,043 INFO  class ~ after launch
+2022-02-13 10:52:58,535 DEBUG class ~ browser intialize
+2022-02-13 10:52:58,535 INFO  class ~ info log
+2022-02-13 10:53:10,047 DEBUG class ~ from dropdown clicked
+2022-02-13 10:53:10,324 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:53:11,327 DEBUG class ~ from dropdown clicked
+2022-02-13 10:53:11,598 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:53:12,801 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:53:12,801 INFO  class ~ To Value clicked - info
+2022-02-13 10:53:13,678 DEBUG class ~ Date Selected
+2022-02-13 10:53:13,678 ERROR class ~ Date Selected
+2022-02-13 10:53:13,678 FATAL class ~ Date Selected -fatal
+2022-02-13 10:53:13,678 WARN  class ~ Date Selected -warning
+2022-02-13 10:53:14,014 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:53:14,014 INFO  class ~ To Value clicked - info
+2022-02-13 10:53:14,979 DEBUG class ~ Date Selected
+2022-02-13 10:53:14,979 ERROR class ~ Date Selected
+2022-02-13 10:53:14,979 FATAL class ~ Date Selected -fatal
+2022-02-13 10:53:14,979 WARN  class ~ Date Selected -warning
+2022-02-13 10:53:25,817 DEBUG class ~ from dropdown clicked
+2022-02-13 10:53:26,206 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:53:28,262 DEBUG class ~ from dropdown clicked
+2022-02-13 10:53:28,481 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:53:28,482 INFO  class ~ To Value clicked - info
+2022-02-13 10:53:28,767 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:53:29,648 DEBUG class ~ Date Selected
+2022-02-13 10:53:29,648 ERROR class ~ Date Selected
+2022-02-13 10:53:29,649 FATAL class ~ Date Selected -fatal
+2022-02-13 10:53:29,649 WARN  class ~ Date Selected -warning
+2022-02-13 10:53:30,988 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:53:30,988 INFO  class ~ To Value clicked - info
+2022-02-13 10:53:32,228 DEBUG class ~ Date Selected
+2022-02-13 10:53:32,228 ERROR class ~ Date Selected
+2022-02-13 10:53:32,228 FATAL class ~ Date Selected -fatal
+2022-02-13 10:53:32,228 WARN  class ~ Date Selected -warning
+2022-02-13 10:53:44,530 DEBUG class ~ from dropdown clicked
+2022-02-13 10:53:44,893 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:53:46,956 DEBUG class ~ from dropdown clicked
+2022-02-13 10:53:47,312 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:53:47,624 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:53:47,624 INFO  class ~ To Value clicked - info
+2022-02-13 10:53:49,441 DEBUG class ~ Date Selected
+2022-02-13 10:53:49,441 ERROR class ~ Date Selected
+2022-02-13 10:53:49,441 FATAL class ~ Date Selected -fatal
+2022-02-13 10:53:49,441 WARN  class ~ Date Selected -warning
+2022-02-13 10:53:50,015 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:53:50,015 INFO  class ~ To Value clicked - info
+2022-02-13 10:53:51,723 DEBUG class ~ Date Selected
+2022-02-13 10:53:51,723 ERROR class ~ Date Selected
+2022-02-13 10:53:51,723 FATAL class ~ Date Selected -fatal
+2022-02-13 10:53:51,723 WARN  class ~ Date Selected -warning
+2022-02-13 10:55:01,411 DEBUG class ~ from dropdown clicked
+2022-02-13 10:55:01,706 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:55:03,477 DEBUG class ~ from dropdown clicked
+2022-02-13 10:55:03,755 DEBUG class ~ from Value Selected: BKK
+2022-02-13 10:55:04,227 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:55:04,227 INFO  class ~ To Value clicked - info
+2022-02-13 10:55:06,192 DEBUG class ~ To Value clicked: MAA
+2022-02-13 10:55:06,192 INFO  class ~ To Value clicked - info
+2022-02-13 10:55:09,390 DEBUG class ~ from dropdown clicked
+2022-02-13 10:55:09,836 DEBUG class ~ from Value Selected: MAA
+2022-02-13 10:55:11,391 DEBUG class ~ from dropdown clicked
+2022-02-13 10:55:11,827 DEBUG class ~ from Value Selected: MAA
+2022-02-13 10:55:15,304 DEBUG class ~ from dropdown clicked
+2022-02-13 10:55:15,675 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:55:17,290 DEBUG class ~ from dropdown clicked
+2022-02-13 10:55:17,639 DEBUG class ~ from Value Selected: GOI
+2022-02-13 10:55:20,884 DEBUG class ~ To dropdown clicked
+2022-02-13 10:55:21,079 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:55:21,079 INFO  class ~ To Value clicked - info
+2022-02-13 10:55:22,862 DEBUG class ~ To dropdown clicked
+2022-02-13 10:55:23,069 DEBUG class ~ To Value clicked: DEL
+2022-02-13 10:55:23,070 INFO  class ~ To Value clicked - info
+2022-02-13 10:55:26,223 DEBUG class ~ from dropdown clicked
+2022-02-13 10:55:26,436 DEBUG class ~ from Value Selected: DEL
+2022-02-13 10:55:28,223 DEBUG class ~ from dropdown clicked
+2022-02-13 10:55:28,419 DEBUG class ~ from Value Selected: DEL
+2022-02-13 10:55:31,838 DEBUG class ~ from dropdown clicked
+2022-02-13 10:55:32,125 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:55:33,789 DEBUG class ~ from dropdown clicked
+2022-02-13 10:55:34,028 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 10:55:37,309 DEBUG class ~ To dropdown clicked
+2022-02-13 10:55:37,831 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:55:37,831 INFO  class ~ To Value clicked - info
+2022-02-13 10:55:39,239 DEBUG class ~ To dropdown clicked
+2022-02-13 10:55:39,734 DEBUG class ~ To Value clicked: HKG
+2022-02-13 10:55:39,734 INFO  class ~ To Value clicked - info
+2022-02-13 10:55:43,019 DEBUG class ~ from dropdown clicked
+2022-02-13 10:55:43,502 DEBUG class ~ from Value Selected: HKG
+2022-02-13 10:55:44,925 DEBUG class ~ from dropdown clicked
+2022-02-13 10:55:45,456 DEBUG class ~ from Value Selected: HKG
+2022-02-13 10:55:46,638 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-13 10:55:46,654 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-13 10:55:46,654 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-13 10:55:46,654 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-13 10:55:46,654 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-13 11:07:19,522 INFO  class ~ before launch
+2022-02-13 11:07:19,523 INFO  class ~ after launch
+2022-02-13 11:07:19,632 DEBUG io.netty.util.internal.logging.InternalLoggerFactory ~ Using Log4J as the default logging framework
+2022-02-13 11:07:19,635 DEBUG io.netty.util.ResourceLeakDetector ~ -Dio.netty.leakDetection.level: simple
+2022-02-13 11:07:19,635 DEBUG io.netty.util.ResourceLeakDetector ~ -Dio.netty.leakDetection.targetRecords: 4
+2022-02-13 11:07:19,639 DEBUG io.netty.util.ResourceLeakDetectorFactory ~ Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@56a41668
+2022-02-13 11:07:19,651 DEBUG io.netty.util.internal.PlatformDependent0 ~ -Dio.netty.noUnsafe: false
+2022-02-13 11:07:19,651 DEBUG io.netty.util.internal.PlatformDependent0 ~ Java version: 8
+2022-02-13 11:07:19,652 DEBUG io.netty.util.internal.PlatformDependent0 ~ sun.misc.Unsafe.theUnsafe: available
+2022-02-13 11:07:19,652 DEBUG io.netty.util.internal.PlatformDependent0 ~ sun.misc.Unsafe.copyMemory: available
+2022-02-13 11:07:19,652 DEBUG io.netty.util.internal.PlatformDependent0 ~ java.nio.Buffer.address: available
+2022-02-13 11:07:19,652 DEBUG io.netty.util.internal.PlatformDependent0 ~ direct buffer constructor: available
+2022-02-13 11:07:19,653 DEBUG io.netty.util.internal.PlatformDependent0 ~ java.nio.Bits.unaligned: available, true
+2022-02-13 11:07:19,653 DEBUG io.netty.util.internal.PlatformDependent0 ~ jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+2022-02-13 11:07:19,653 DEBUG io.netty.util.internal.PlatformDependent0 ~ java.nio.DirectByteBuffer.<init>(long, int): available
+2022-02-13 11:07:19,653 DEBUG io.netty.util.internal.PlatformDependent ~ sun.misc.Unsafe: available
+2022-02-13 11:07:19,653 DEBUG io.netty.util.internal.PlatformDependent ~ -Dio.netty.tmpdir: C:\Users\sathishkumar\AppData\Local\Temp (java.io.tmpdir)
+2022-02-13 11:07:19,653 DEBUG io.netty.util.internal.PlatformDependent ~ -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2022-02-13 11:07:19,654 DEBUG io.netty.util.internal.PlatformDependent ~ Platform: Windows
+2022-02-13 11:07:19,654 DEBUG io.netty.util.internal.PlatformDependent ~ -Dio.netty.maxDirectMemory: 3765960704 bytes
+2022-02-13 11:07:19,654 DEBUG io.netty.util.internal.PlatformDependent ~ -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2022-02-13 11:07:19,655 DEBUG io.netty.util.internal.CleanerJava6 ~ java.nio.ByteBuffer.cleaner(): available
+2022-02-13 11:07:19,655 DEBUG io.netty.util.internal.PlatformDependent ~ -Dio.netty.noPreferDirect: false
+2022-02-13 11:07:19,683 DEBUG io.netty.util.internal.PlatformDependent ~ org.jctools-core.MpscChunkedArrayQueue: available
+2022-02-13 11:07:19,698 DEBUG io.netty.util.internal.InternalThreadLocalMap ~ -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2022-02-13 11:07:19,698 DEBUG io.netty.util.internal.InternalThreadLocalMap ~ -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2022-02-13 11:07:19,708 DEBUG io.netty.handler.ssl.JdkSslContext ~ Default protocols (JDK): [TLSv1.2] 
+2022-02-13 11:07:19,708 DEBUG io.netty.handler.ssl.JdkSslContext ~ Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2022-02-13 11:07:19,726 DEBUG io.netty.channel.MultithreadEventLoopGroup ~ -Dio.netty.eventLoopThreads: 32
+2022-02-13 11:07:19,734 DEBUG io.netty.channel.nio.NioEventLoop ~ -Dio.netty.noKeySetOptimization: false
+2022-02-13 11:07:19,734 DEBUG io.netty.channel.nio.NioEventLoop ~ -Dio.netty.selectorAutoRebuildThreshold: 512
+2022-02-13 11:07:19,772 DEBUG io.netty.buffer.PooledByteBufAllocator ~ -Dio.netty.allocator.numHeapArenas: 32
+2022-02-13 11:07:19,772 DEBUG io.netty.buffer.PooledByteBufAllocator ~ -Dio.netty.allocator.numDirectArenas: 32
+2022-02-13 11:07:19,772 DEBUG io.netty.buffer.PooledByteBufAllocator ~ -Dio.netty.allocator.pageSize: 8192
+2022-02-13 11:07:19,772 DEBUG io.netty.buffer.PooledByteBufAllocator ~ -Dio.netty.allocator.maxOrder: 11
+2022-02-13 11:07:19,772 DEBUG io.netty.buffer.PooledByteBufAllocator ~ -Dio.netty.allocator.chunkSize: 16777216
+2022-02-13 11:07:19,772 DEBUG io.netty.buffer.PooledByteBufAllocator ~ -Dio.netty.allocator.smallCacheSize: 256
+2022-02-13 11:07:19,772 DEBUG io.netty.buffer.PooledByteBufAllocator ~ -Dio.netty.allocator.normalCacheSize: 64
+2022-02-13 11:07:19,772 DEBUG io.netty.buffer.PooledByteBufAllocator ~ -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2022-02-13 11:07:19,772 DEBUG io.netty.buffer.PooledByteBufAllocator ~ -Dio.netty.allocator.cacheTrimInterval: 8192
+2022-02-13 11:07:19,772 DEBUG io.netty.buffer.PooledByteBufAllocator ~ -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2022-02-13 11:07:19,772 DEBUG io.netty.buffer.PooledByteBufAllocator ~ -Dio.netty.allocator.useCacheForAllThreads: true
+2022-02-13 11:07:19,772 DEBUG io.netty.buffer.PooledByteBufAllocator ~ -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2022-02-13 11:07:19,782 DEBUG io.netty.buffer.ByteBufUtil ~ -Dio.netty.allocator.type: pooled
+2022-02-13 11:07:19,782 DEBUG io.netty.buffer.ByteBufUtil ~ -Dio.netty.threadLocalDirectBufferSize: 0
+2022-02-13 11:07:19,782 DEBUG io.netty.buffer.ByteBufUtil ~ -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2022-02-13 11:07:20,525 DEBUG io.netty.channel.DefaultChannelId ~ -Dio.netty.processId: 17512 (auto-detected)
+2022-02-13 11:07:20,526 DEBUG io.netty.util.NetUtil ~ -Djava.net.preferIPv4Stack: false
+2022-02-13 11:07:20,526 DEBUG io.netty.util.NetUtil ~ -Djava.net.preferIPv6Addresses: false
+2022-02-13 11:07:20,620 DEBUG io.netty.util.NetUtilInitializations ~ Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2022-02-13 11:07:20,621 DEBUG io.netty.util.NetUtil ~ Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2022-02-13 11:07:20,717 DEBUG io.netty.channel.DefaultChannelId ~ -Dio.netty.machineId: 2c:8d:b1:ff:fe:a6:91:a4 (auto-detected)
+2022-02-13 11:07:20,750 DEBUG io.netty.buffer.AbstractByteBuf ~ -Dio.netty.buffer.checkAccessible: true
+2022-02-13 11:07:20,750 DEBUG io.netty.buffer.AbstractByteBuf ~ -Dio.netty.buffer.checkBounds: true
+2022-02-13 11:07:20,750 DEBUG io.netty.util.ResourceLeakDetectorFactory ~ Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7e6ffaf
+2022-02-13 11:07:20,763 DEBUG io.netty.util.Recycler ~ -Dio.netty.recycler.maxCapacityPerThread: 4096
+2022-02-13 11:07:20,763 DEBUG io.netty.util.Recycler ~ -Dio.netty.recycler.ratio: 8
+2022-02-13 11:07:20,763 DEBUG io.netty.util.Recycler ~ -Dio.netty.recycler.chunkSize: 32
+2022-02-13 11:07:20,763 DEBUG io.netty.util.Recycler ~ -Dio.netty.recycler.blocking: false
+2022-02-13 11:07:21,295 DEBUG io.netty.handler.codec.compression.Brotli ~ brotli4j not in the classpath; Brotli support will be unavailable.
+2022-02-13 11:09:14,685 INFO  class ~ before launch
+2022-02-13 11:09:14,685 INFO  class ~ after launch
+2022-02-13 11:11:23,374 INFO  class ~ before launch
+2022-02-13 11:11:47,506 INFO  class ~ after launch
+2022-02-13 11:19:57,200 INFO  class ~ before launch
+2022-02-13 11:19:57,316 INFO  class ~ after launch
+2022-02-13 11:20:14,667 INFO  class ~ before launch
+2022-02-13 11:20:20,261 INFO  class ~ after launch
+2022-02-13 11:22:49,253 INFO  class ~ before launch
+2022-02-13 11:22:49,590 INFO  class ~ after launch
+2022-02-13 11:29:05,000 INFO  class ~ before launch
+2022-02-13 11:29:22,586 INFO  class ~ after launch
+2022-02-13 11:32:16,286 INFO  class ~ before launch
+2022-02-13 11:32:16,624 INFO  class ~ after launch
+2022-02-13 11:32:18,107 DEBUG class ~ browser intialize
+2022-02-13 11:32:18,107 INFO  class ~ info log
+2022-02-13 11:32:32,494 DEBUG class ~ from dropdown clicked
+2022-02-13 11:32:32,775 DEBUG class ~ from dropdown clicked
+2022-02-13 11:32:32,827 DEBUG class ~ from Value Selected: BKK
+2022-02-13 11:32:33,105 DEBUG class ~ from Value Selected: BKK
+2022-02-13 11:32:35,245 DEBUG class ~ To Value clicked: MAA
+2022-02-13 11:32:35,245 INFO  class ~ To Value clicked - info
+2022-02-13 11:32:35,532 DEBUG class ~ To Value clicked: MAA
+2022-02-13 11:32:35,532 INFO  class ~ To Value clicked - info
+2022-02-13 11:32:36,144 DEBUG class ~ Date Selected
+2022-02-13 11:32:36,144 ERROR class ~ Date Selected
+2022-02-13 11:32:36,144 FATAL class ~ Date Selected -fatal
+2022-02-13 11:32:36,144 WARN  class ~ Date Selected -warning
+2022-02-13 11:32:36,406 DEBUG class ~ Date Selected
+2022-02-13 11:32:36,406 ERROR class ~ Date Selected
+2022-02-13 11:32:36,406 FATAL class ~ Date Selected -fatal
+2022-02-13 11:32:36,406 WARN  class ~ Date Selected -warning
+2022-02-13 11:32:49,368 DEBUG class ~ from dropdown clicked
+2022-02-13 11:32:49,857 DEBUG class ~ from Value Selected: GOI
+2022-02-13 11:32:50,119 DEBUG class ~ from dropdown clicked
+2022-02-13 11:32:50,557 DEBUG class ~ from Value Selected: GOI
+2022-02-13 11:32:52,129 DEBUG class ~ To Value clicked: DEL
+2022-02-13 11:32:52,129 INFO  class ~ To Value clicked - info
+2022-02-13 11:32:52,860 DEBUG class ~ To Value clicked: DEL
+2022-02-13 11:32:52,860 INFO  class ~ To Value clicked - info
+2022-02-13 11:32:53,310 DEBUG class ~ Date Selected
+2022-02-13 11:32:53,310 ERROR class ~ Date Selected
+2022-02-13 11:32:53,310 FATAL class ~ Date Selected -fatal
+2022-02-13 11:32:53,310 WARN  class ~ Date Selected -warning
+2022-02-13 11:32:54,115 DEBUG class ~ Date Selected
+2022-02-13 11:32:54,115 ERROR class ~ Date Selected
+2022-02-13 11:32:54,115 FATAL class ~ Date Selected -fatal
+2022-02-13 11:32:54,116 WARN  class ~ Date Selected -warning
+2022-02-13 11:33:08,482 DEBUG class ~ from dropdown clicked
+2022-02-13 11:33:08,844 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 11:33:09,791 DEBUG class ~ from dropdown clicked
+2022-02-13 11:33:10,164 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 11:33:11,635 DEBUG class ~ To Value clicked: HKG
+2022-02-13 11:33:11,635 INFO  class ~ To Value clicked - info
+2022-02-13 11:33:12,890 DEBUG class ~ To Value clicked: HKG
+2022-02-13 11:33:12,890 INFO  class ~ To Value clicked - info
+2022-02-13 11:33:13,317 DEBUG class ~ Date Selected
+2022-02-13 11:33:13,317 ERROR class ~ Date Selected
+2022-02-13 11:33:13,317 FATAL class ~ Date Selected -fatal
+2022-02-13 11:33:13,317 WARN  class ~ Date Selected -warning
+2022-02-13 11:33:14,632 DEBUG class ~ Date Selected
+2022-02-13 11:33:14,632 ERROR class ~ Date Selected
+2022-02-13 11:33:14,633 FATAL class ~ Date Selected -fatal
+2022-02-13 11:33:14,633 WARN  class ~ Date Selected -warning
+2022-02-13 11:34:26,239 DEBUG class ~ from dropdown clicked
+2022-02-13 11:34:26,504 DEBUG class ~ from Value Selected: BKK
+2022-02-13 11:34:27,835 DEBUG class ~ from dropdown clicked
+2022-02-13 11:34:28,104 DEBUG class ~ from Value Selected: BKK
+2022-02-13 11:34:28,944 DEBUG class ~ To Value clicked: MAA
+2022-02-13 11:34:28,944 INFO  class ~ To Value clicked - info
+2022-02-13 11:34:30,483 DEBUG class ~ To Value clicked: MAA
+2022-02-13 11:34:30,483 INFO  class ~ To Value clicked - info
+2022-02-13 11:34:34,105 DEBUG class ~ from dropdown clicked
+2022-02-13 11:34:34,422 DEBUG class ~ from Value Selected: MAA
+2022-02-13 11:34:35,658 DEBUG class ~ from dropdown clicked
+2022-02-13 11:34:35,976 DEBUG class ~ from Value Selected: MAA
+2022-02-13 11:34:39,882 DEBUG class ~ from dropdown clicked
+2022-02-13 11:34:40,334 DEBUG class ~ from Value Selected: GOI
+2022-02-13 11:34:41,406 DEBUG class ~ from dropdown clicked
+2022-02-13 11:34:41,772 DEBUG class ~ from Value Selected: GOI
+2022-02-13 11:34:45,518 DEBUG class ~ To dropdown clicked
+2022-02-13 11:34:45,771 DEBUG class ~ To Value clicked: DEL
+2022-02-13 11:34:45,771 INFO  class ~ To Value clicked - info
+2022-02-13 11:34:47,040 DEBUG class ~ To dropdown clicked
+2022-02-13 11:34:47,248 DEBUG class ~ To Value clicked: DEL
+2022-02-13 11:34:47,248 INFO  class ~ To Value clicked - info
+2022-02-13 11:34:50,924 DEBUG class ~ from dropdown clicked
+2022-02-13 11:34:51,135 DEBUG class ~ from Value Selected: DEL
+2022-02-13 11:34:52,453 DEBUG class ~ from dropdown clicked
+2022-02-13 11:34:52,745 DEBUG class ~ from Value Selected: DEL
+2022-02-13 11:34:56,519 DEBUG class ~ from dropdown clicked
+2022-02-13 11:34:56,791 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 11:34:58,100 DEBUG class ~ from dropdown clicked
+2022-02-13 11:34:58,375 DEBUG class ~ from Value Selected: PNQ
+2022-02-13 11:35:02,065 DEBUG class ~ To dropdown clicked
+2022-02-13 11:35:02,675 DEBUG class ~ To Value clicked: HKG
+2022-02-13 11:35:02,675 INFO  class ~ To Value clicked - info
+2022-02-13 11:35:03,588 DEBUG class ~ To dropdown clicked
+2022-02-13 11:35:04,115 DEBUG class ~ To Value clicked: HKG
+2022-02-13 11:35:04,115 INFO  class ~ To Value clicked - info
+2022-02-13 11:35:07,835 DEBUG class ~ from dropdown clicked
+2022-02-13 11:35:08,261 DEBUG class ~ from Value Selected: HKG
+2022-02-13 11:35:09,311 DEBUG class ~ from dropdown clicked
+2022-02-13 11:35:09,747 DEBUG class ~ from Value Selected: HKG
+2022-02-13 11:35:10,918 DEBUG freemarker.cache ~ Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-02-13 11:35:10,918 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-02-13 11:35:10,918 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-13 11:35:10,918 DEBUG freemarker.cache ~ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-13 11:35:10,918 DEBUG freemarker.cache ~ Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sathishkumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

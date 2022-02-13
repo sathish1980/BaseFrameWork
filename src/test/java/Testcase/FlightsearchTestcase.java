@@ -43,7 +43,7 @@ public class FlightsearchTestcase extends Browserdriver
 		
 		try
 		{
-			Flightsearch FS= new Flightsearch(driver);
+			Flightsearch FS= new Flightsearch(getdriver());
 			System.out.println("the count is : "+count);
 			if(count==0)
 			{
@@ -57,19 +57,21 @@ public class FlightsearchTestcase extends Browserdriver
 			FS.depaturedate(depatdate);
 			test.log(LogStatus.INFO, "Depature Date slected the value");
 			FS.searchbutton();
-			SearchlistPage SP= new SearchlistPage(driver);
+			count=count+1;
+			SearchlistPage SP= new SearchlistPage(getdriver());
 			if(SP.PopularFilters()==true)
 			{
-			 screenshotpath=c.takescreenshot(driver);
+			 screenshotpath=c.takescreenshot(getdriver());
 
 			}
-			 driver.navigate().back();
-			 count=count+1;
+			
+			getdriver().navigate().back();
+			 
 			test.log(LogStatus.PASS, test.addScreenCapture(screenshotpath));
 		}
 		catch(Exception s)
 		{
-			driver.navigate().back();
+			getdriver().navigate().back();
 			test.log(LogStatus.FAIL, s);
 			System.out.println(s);
 		}
@@ -85,7 +87,7 @@ public class FlightsearchTestcase extends Browserdriver
 			
 			try
 			{
-				Flightsearch FS= new Flightsearch(driver);
+				Flightsearch FS= new Flightsearch(getdriver());
 				System.out.println("the count is : "+count);
 				if(count==0)
 				{
@@ -99,7 +101,7 @@ public class FlightsearchTestcase extends Browserdriver
 				FS.fromlist(To);
 				test.log(LogStatus.INFO, "From Dropdown slected the To value: "+To);
 				Assert.assertEquals(FS.FromandTosameLocError(),errorMessageinToField);
-				screenshotpath=c.takescreenshot(driver);
+				screenshotpath=c.takescreenshot(getdriver());
 				count=count+1;
 				test.log(LogStatus.PASS, test.addScreenCapture(screenshotpath));
 			}

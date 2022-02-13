@@ -1516,3 +1516,102 @@ Session ID: 00493c4f6dc1b01bb0e42f5ed7c11ee5
 2022-02-12 10:55:45,513 ERROR class ~ Date Selected
 2022-02-12 10:55:45,513 FATAL class ~ Date Selected -fatal
 2022-02-12 10:55:45,513 WARN  class ~ Date Selected -warning
+2022-02-13 09:36:30,893 ERROR class ~ Date Selected
+2022-02-13 09:36:30,894 FATAL class ~ Date Selected -fatal
+2022-02-13 09:36:30,894 WARN  class ~ Date Selected -warning
+2022-02-13 09:37:13,535 ERROR class ~ Date Selected
+2022-02-13 09:37:13,535 FATAL class ~ Date Selected -fatal
+2022-02-13 09:37:13,535 WARN  class ~ Date Selected -warning
+2022-02-13 09:38:03,804 ERROR class ~ Date Selected
+2022-02-13 09:38:03,804 FATAL class ~ Date Selected -fatal
+2022-02-13 09:38:03,805 WARN  class ~ Date Selected -warning
+2022-02-13 09:42:15,819 ERROR class ~ Date Selected
+2022-02-13 09:42:15,819 FATAL class ~ Date Selected -fatal
+2022-02-13 09:42:15,819 WARN  class ~ Date Selected -warning
+2022-02-13 09:42:31,323 ERROR class ~ Date Selected
+2022-02-13 09:42:31,323 FATAL class ~ Date Selected -fatal
+2022-02-13 09:42:31,323 WARN  class ~ Date Selected -warning
+2022-02-13 09:42:47,695 ERROR class ~ Date Selected
+2022-02-13 09:42:47,695 FATAL class ~ Date Selected -fatal
+2022-02-13 09:42:47,695 WARN  class ~ Date Selected -warning
+2022-02-13 10:28:46,171 ERROR class ~ Date Selected
+2022-02-13 10:28:46,171 FATAL class ~ Date Selected -fatal
+2022-02-13 10:28:46,171 WARN  class ~ Date Selected -warning
+2022-02-13 10:29:03,542 ERROR class ~ Date Selected
+2022-02-13 10:29:03,542 FATAL class ~ Date Selected -fatal
+2022-02-13 10:29:03,542 WARN  class ~ Date Selected -warning
+2022-02-13 10:29:21,368 ERROR class ~ Date Selected
+2022-02-13 10:29:21,368 FATAL class ~ Date Selected -fatal
+2022-02-13 10:29:21,368 WARN  class ~ Date Selected -warning
+2022-02-13 10:39:13,213 ERROR class ~ Date Selected
+2022-02-13 10:39:13,214 FATAL class ~ Date Selected -fatal
+2022-02-13 10:39:13,214 WARN  class ~ Date Selected -warning
+2022-02-13 10:39:29,142 ERROR class ~ Date Selected
+2022-02-13 10:39:29,142 FATAL class ~ Date Selected -fatal
+2022-02-13 10:39:29,142 WARN  class ~ Date Selected -warning
+2022-02-13 10:39:47,209 ERROR class ~ Date Selected
+2022-02-13 10:39:47,209 FATAL class ~ Date Selected -fatal
+2022-02-13 10:39:47,209 WARN  class ~ Date Selected -warning
+2022-02-13 10:45:17,817 ERROR class ~ Date Selected
+2022-02-13 10:45:17,817 FATAL class ~ Date Selected -fatal
+2022-02-13 10:45:17,817 WARN  class ~ Date Selected -warning
+2022-02-13 10:45:18,734 ERROR class ~ Date Selected
+2022-02-13 10:45:18,734 FATAL class ~ Date Selected -fatal
+2022-02-13 10:45:18,734 WARN  class ~ Date Selected -warning
+2022-02-13 10:45:33,648 ERROR class ~ Date Selected
+2022-02-13 10:45:33,648 FATAL class ~ Date Selected -fatal
+2022-02-13 10:45:33,648 WARN  class ~ Date Selected -warning
+2022-02-13 10:45:35,399 ERROR class ~ Date Selected
+2022-02-13 10:45:35,399 FATAL class ~ Date Selected -fatal
+2022-02-13 10:45:35,399 WARN  class ~ Date Selected -warning
+2022-02-13 10:45:51,822 ERROR class ~ Date Selected
+2022-02-13 10:45:51,822 FATAL class ~ Date Selected -fatal
+2022-02-13 10:45:51,822 WARN  class ~ Date Selected -warning
+2022-02-13 10:45:53,790 ERROR class ~ Date Selected
+2022-02-13 10:45:53,790 FATAL class ~ Date Selected -fatal
+2022-02-13 10:45:53,790 WARN  class ~ Date Selected -warning
+2022-02-13 10:49:48,252 ERROR class ~ Date Selected
+2022-02-13 10:49:48,252 FATAL class ~ Date Selected -fatal
+2022-02-13 10:49:48,252 WARN  class ~ Date Selected -warning
+2022-02-13 10:50:06,314 ERROR class ~ Date Selected
+2022-02-13 10:50:06,314 FATAL class ~ Date Selected -fatal
+2022-02-13 10:50:06,314 WARN  class ~ Date Selected -warning
+2022-02-13 10:50:25,046 ERROR class ~ Date Selected
+2022-02-13 10:50:25,046 FATAL class ~ Date Selected -fatal
+2022-02-13 10:50:25,046 WARN  class ~ Date Selected -warning
+2022-02-13 10:53:13,678 ERROR class ~ Date Selected
+2022-02-13 10:53:13,678 FATAL class ~ Date Selected -fatal
+2022-02-13 10:53:13,678 WARN  class ~ Date Selected -warning
+2022-02-13 10:53:14,979 ERROR class ~ Date Selected
+2022-02-13 10:53:14,979 FATAL class ~ Date Selected -fatal
+2022-02-13 10:53:14,979 WARN  class ~ Date Selected -warning
+2022-02-13 10:53:29,648 ERROR class ~ Date Selected
+2022-02-13 10:53:29,649 FATAL class ~ Date Selected -fatal
+2022-02-13 10:53:29,649 WARN  class ~ Date Selected -warning
+2022-02-13 10:53:32,228 ERROR class ~ Date Selected
+2022-02-13 10:53:32,228 FATAL class ~ Date Selected -fatal
+2022-02-13 10:53:32,228 WARN  class ~ Date Selected -warning
+2022-02-13 10:53:49,441 ERROR class ~ Date Selected
+2022-02-13 10:53:49,441 FATAL class ~ Date Selected -fatal
+2022-02-13 10:53:49,441 WARN  class ~ Date Selected -warning
+2022-02-13 10:53:51,723 ERROR class ~ Date Selected
+2022-02-13 10:53:51,723 FATAL class ~ Date Selected -fatal
+2022-02-13 10:53:51,723 WARN  class ~ Date Selected -warning
+2022-02-13 11:32:36,144 ERROR class ~ Date Selected
+2022-02-13 11:32:36,144 FATAL class ~ Date Selected -fatal
+2022-02-13 11:32:36,144 WARN  class ~ Date Selected -warning
+2022-02-13 11:32:36,406 ERROR class ~ Date Selected
+2022-02-13 11:32:36,406 FATAL class ~ Date Selected -fatal
+2022-02-13 11:32:36,406 WARN  class ~ Date Selected -warning
+2022-02-13 11:32:53,310 ERROR class ~ Date Selected
+2022-02-13 11:32:53,310 FATAL class ~ Date Selected -fatal
+2022-02-13 11:32:53,310 WARN  class ~ Date Selected -warning
+2022-02-13 11:32:54,115 ERROR class ~ Date Selected
+2022-02-13 11:32:54,115 FATAL class ~ Date Selected -fatal
+2022-02-13 11:32:54,116 WARN  class ~ Date Selected -warning
+2022-02-13 11:33:13,317 ERROR class ~ Date Selected
+2022-02-13 11:33:13,317 FATAL class ~ Date Selected -fatal
+2022-02-13 11:33:13,317 WARN  class ~ Date Selected -warning
+2022-02-13 11:33:14,632 ERROR class ~ Date Selected
+2022-02-13 11:33:14,633 FATAL class ~ Date Selected -fatal
+2022-02-13 11:33:14,633 WARN  class ~ Date Selected -warning
